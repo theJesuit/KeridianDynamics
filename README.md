@@ -99,6 +99,8 @@ License: ![License CC BY-SA 4.0][shield:license] ![][LOGO:ccbysa4]
 [image:rel-curseforge-sm]: https://i.postimg.cc/ZRVTSWKT/UVVt0OP.png
   
 [shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/KeridianDynamics?include_prereleases?style=plastic
+[shield:mod:date:pre]: https://img.shields.io/github/release-date-pre/zer0Kerbal/KeridianDynamics?label=Pre-Release%20Date&logo=github&logoColor=darkgreen&style=social
+[shild:mod:date]: https://img.shields.io/github/release-date/zer0Kerbal/KeridianDynamics?logo=github&logoColor=darkgreen&style=social
 [shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KeridianDynamics/master/json/mod.json
 [shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KeridianDynamics/master/json/ksp.json
 [shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KeridianDynamics/master/json/license.json
