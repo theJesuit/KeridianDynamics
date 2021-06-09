@@ -1,0 +1,33 @@
+{
+	"MODNAME": "Keridian Dynamics (KDVA)",
+	"AUTHOR": "Eleusis La Arwall, zer0Kerbal",
+	"MODFOLDER": "KeridianDynamics",
+	"SUBFOLDER": "",
+	"VERSIONFILE": "auto",
+	"MODTYPE": "Parts",
+	"RELEASESDIR": "Releases",
+	"CHANGELOG": "Changelog.md",
+	"CKAN": {
+		"DRAFT": false,
+		"PRERELEASE": false
+	},
+	"URL": {
+		"SPACEDOCK_ID": "308",
+		"CURSEFORGE": "KeridianDynamics",
+		"GITHUB": "EleusisLaArwall/KeridianDynamics-VesselAssembly",
+		"FORUM": ""
+	},
+	"ORIGURL": {
+		"SPACEDOCK_ID": "308",
+		"CURSEFORGE": "",
+		"GITHUB": "KeridianDynamics",
+		"FORUM": "116987"
+	},
+	"KSPVERSION": "1.9.1",
+	"LICENSE": "CC BY-SA 4.0",
+	"CODE": {
+		"DNET": "no source code",
+		"UNIT": "Unity 2017",
+		"LANG": "Module Manager"
+	}
+}
