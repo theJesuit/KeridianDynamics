@@ -12,7 +12,7 @@ repository:
   name: Notes
 
   # A short description of the repository that will show up on GitHub
-  description: Parts pack for resource-conversion and vessel-assembly for Kerbal Space Program.
+  description: "Parts pack for resource-conversion and vessel-assembly for Kerbal Space Program. https://forum.kerbalspaceprogram.com/index.php?/topic/116987-*"
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/116987-*
