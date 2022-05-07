@@ -1,8 +1,8 @@
 {
-  "schemaVersion": 1,
-  "label": "Keridian Dynamics (KDVA)",
-  "labelColor": "darkgreen",
-  "message": "0.8.9.1",
-  "color": "orange",
-  "style": "plastic"
+ "schemaVersion": 1,
+ "label": "Keridian Dynamics",
+ "labelColor": "BADA55",
+ "message": "0.8.9.1",
+ "color": "darkgreen",
+ "style": "plastic"
 }
