@@ -105,14 +105,14 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [ose]: http://forum.kerbalspaceprogram.com/index.php?/topic/163246-*/ "OSE Workshop"
 [ctt]: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-*/ "Community Tech Tree"
 
-* A Resource Switcher
-  * [InterstellarFuelSwitch][ifs]
-  * [Firespitter][fs]
-  * [B9PartSwitch][b9ps]
-  * 99.9% required
-    * KSP will load all parts but some will have reduced or no function
-    * The configs autodetects if Firespitter or InterstellarFuelSwitch or B9PartSwitch is installed and uses the corresponding modules.
-    * If multiple ResourceSwitchers are installed, the priority goes as follows: IFS > FS > B9PS
+* One of the Resource Switchers is 99% required for the mod to function
+  * KSP will load all parts but some will have reduced or no function
+  * The configs autodetects if Firespitter or InterstellarFuelSwitch or B9PartSwitch is installed and uses the corresponding modules.
+  * If multiple ResourceSwitchers are installed, the priority goes as follows: IFS > FS > B9PS
+  * One of the Resource Switchers:
+    * [Interstellar Fuel Switch CORE][ifsc]
+    * [Firespitter][fs]
+    * [B9PartSwitch][b9ps]
 * Either
   * [ExtraplanetaryLaunchpads][xpl]
   * [SimpleConstruction][SCON]
@@ -123,6 +123,9 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [Kerbal Attachment System][kas] - *allows the RecycleSite to dump all recycled resources*
 * [JSI Advanced Transparent Pods][atp]- *gives the  passable and nonpassable Storage Tanks an IVA overlay*
 * [PatchManager][pm] - *allows patches to be easily toggleable*
+
+
+[ifsc]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-* "Interstellar Fuel Switch CORE"
 
 [pm]: https://forum.kerbalspaceprogram.com/index.php?/topic/163072-*/ "PatchManager"
 [cc]: https://forum.kerbalspaceprogram.com/index.php?/topic/91625-*/ "ContractConfigurator"
