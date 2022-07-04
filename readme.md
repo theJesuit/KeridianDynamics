@@ -1,5 +1,5 @@
 <!-- readme.md v1.6.9.0
-KeridianDynamics (KDVA)
+Keridian Dynamics (KDVA)
 created: 17 Jul 2017
 updated: 24 Jun 2022 -->
 
@@ -9,7 +9,7 @@ updated: 24 Jun 2022 -->
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url] 
 [![Pages][MOD:pages:shd]][MOD:pages]
 
-# KeridianDynamics (KDVA)
+# Keridian Dynamics (KDVA)
 
 Parts pack for resource-conversion and vessel-assembly for Kerbal Space Program.
 
