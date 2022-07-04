@@ -1,18 +1,19 @@
 {
     "schedule": "weekly",
     "ignoredFiles": [
-        "GameData/*",
-        "docs/LegalMumboJumbo/*",
         "GameData/KeridianDynamics/*",
         "source/*",
         "**/@thumbs/**",
-        "**/Agents/**",
+        "**/Agencies/**",
         "**/Assets/**",
         "**/Flags/**",
         "**/FX/**",
         "**/Icons/**",
         "**/LegalMumboJumbo/**",
+        "**/Parts/**",
         "**/PluginData/**",
+        "**/Props/**",
+        "**/Spaces/**",
         "**/Textures/**",
         "**/UI/**"
     ],
