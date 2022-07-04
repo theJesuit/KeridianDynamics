@@ -1,7 +1,7 @@
-<!-- readme.md v1.6.9.0
+<!-- readme.md v1.6.9.1
 Keridian Dynamics (KDVA)
 created: 17 Jul 2017
-updated: 24 Jun 2022 -->
+updated: 04 Jul 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
@@ -29,7 +29,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### See More
 
-* see [Parts Invoice][MOD:parts] for more comprehensive list
+* see [Parts Invoice][MOD:parts] for a Parts Catalog with pictures
 * Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
 * Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
 * Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
