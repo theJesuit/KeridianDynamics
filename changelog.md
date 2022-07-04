@@ -26,6 +26,12 @@
   * now
     * @MODULE[ModuleResourceConverter],*:HAS[#ConverterName[Ore-->Metal+LFO]]
 * [KD-OSERocketParts.cfg]
+  * PatchManager\PluginData
+  * add header
+  * was
+    * d
+  * now
+    * 
 
 ### Status
 
