@@ -175,7 +175,6 @@ A very big THANK YOU to the following mod developers and specially the plugin-wr
 
 ![0][IMG:hero:0]
 ![1][IMG:hero:1]
-![2][IMG:hero:2]
 
 <!-- mod links -->
 
@@ -289,9 +288,8 @@ A very big THANK YOU to the following mod developers and specially the plugin-wr
 [eleusislaarwall]: https://forum.kerbalspaceprogram.com/index.php?/profile/116286-*/ "Eleusis La Arwall"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
-[IMG:hero:0]: https://i.imgur.com/WLHvoo8.png
-[IMG:hero:1]: https://i.imgur.com/fn0gqpZ.jpg
-[IMG:hero:2]: https://i.imgur.com/fn0gqpZ.jpg
+[IMG:hero:0]: https://i.imgur.com/WLHvoo8.png "Keridian Dynamics Logo"
+[IMG:hero:1]: https://i.imgur.com/fn0gqpZ.jpg "Product Line Up"
 
 ---
 
