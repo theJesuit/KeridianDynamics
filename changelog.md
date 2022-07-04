@@ -12,6 +12,30 @@
 
 ## Version 0.8.9.1 - `<Brushing off the Construction Dust>`
 
+* 04 Jul 2022
+* Released for Kerbal Space Program 1.12.x
+
+### Changes
+
+### minor changes
+
+* [SimpleConstruction.cfg] v v1.1.0.0
+  * add header
+  * was
+    * @MODULE[ModuleResourceConverter],*:HAS[!#ConverterName[Ore-->Metal+LFO]]
+  * now
+    * @MODULE[ModuleResourceConverter],*:HAS[#ConverterName[Ore-->Metal+LFO]]
+* [KD-OSERocketParts.cfg]
+
+### Status
+
+* Issues
+  * 
+
+---
+
+## Version 0.8.9.1 - `<Brushing off the Construction Dust>`
+
 * >>-- adopted for curation by @zer0Kerbal --<<
 * moved changelog into separate file
 * Changelog.md -> Kerbal Changelog Changelog.cfg
