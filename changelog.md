@@ -12,6 +12,20 @@
 
 ## Version 0.8.9.1 - `<Brushing off the Construction Dust>`
 
+* 04 Jul 2022
+* Released for Kerbal Space Program 1.12.x
+
+### Changes
+
+### Status
+
+* Issues
+  * 
+
+---
+
+## Version 0.8.9.1 - `<Brushing off the Construction Dust>`
+
 * >>-- adopted for curation by @zer0Kerbal --<<
 * moved changelog into separate file
 * Changelog.md -> Kerbal Changelog Changelog.cfg
