@@ -52,7 +52,8 @@ updated: 03 Jun 2022
 * colmo for the Fundament suggestion.
 * DaniDE for the name-suggestions and the translation of the company Motto - PECUNIA PER KERBULUS.
 * Joshwoo69 / Joshwoo70 for the Orbital Hangar suggestion.
-* Dr Farnsworth for support, testing and balancing.
+Dr Farnsworth for continued feedback, testing and a lot of very helpfull suggestions.
+534443 for the cost and entryCost rebalance
 * linuxgurugamer for the CKAN support.
 
 <ul>
