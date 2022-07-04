@@ -81,16 +81,19 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [On Demand Fuel Cells (ODFC)][ODFC]
-* [TweakScale][tweakscale]
+* [TweakScale][twk]
 
 ### Supports
 
-* [B9 part switch][b9ps]
+* Resource Switchers
+  * [InterstellarFuelSwitch][ifs]
+  * [Firespitter][fs]
+  * [B9PartSwitch][b9ps]
 * [Connected Living Space][cls]
-* [TweakScale][tweakscale]
+* [TweakScale][twk]
 * [GTIndustries][gti]
 * [FAR][far]
-* [ContractConfigurator][contractconfigurator]
+* [ContractConfigurator][cc]
 * [Firespitter][fs] for fully functioning wheels. may invoke bouts of dizziness.
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [OSE Workshop][ose]
@@ -99,16 +102,16 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 * [Restock][restock]
 
-* Either Resource Switch
-  * InterstellarFuelSwitch
-  * Firespitter
-  * B9PartSwitch
+* A Resource Switcher
+  * [InterstellarFuelSwitch][ifs]
+  * [Firespitter][fs]
+  * [B9PartSwitch][b9ps]
   * 99.9% required
     * KSP will load all parts but some will have reduced or no function
     * The configs autodetects if Firespitter or InterstellarFuelSwitch or B9PartSwitch is installed and uses the corresponding modules. If multiple ResourceSwitchers are installed, the priority goes as follows: IFS > FS > B9PS
 * Either
-  * ExtraplanetaryLaunchpads
-  * SimpleConstruction
+  * [ExtraplanetaryLaunchpads][xpl]
+  * [SimpleConstruction][SCON]
   * 99.9% required
     * without this the Laucnhpads, Launchsite, Sledgehammer, MobileVAB, OrbitalHangar will have no function
 * [Kerbal Inventory System][kis] - *without this the Launchsite and Sledgehammer will have no function*
@@ -173,8 +176,8 @@ A very big THANK YOU to the following mod developers and specially the plugin-wr
 
 ---
 
-![0][IMG:hero:0]
-![1][IMG:hero:1]
+<img src="https://i.imgur.com/WLHvoo8.png" alt="Keridian Dynamics Logo" width="72%" height="72%">
+<img src="https://i.imgur.com/fn0gqpZ.jpg" alt="Product Line Up" width="72%" height="72%">
 
 <!-- mod links -->
 
@@ -287,9 +290,6 @@ A very big THANK YOU to the following mod developers and specially the plugin-wr
 
 [eleusislaarwall]: https://forum.kerbalspaceprogram.com/index.php?/profile/116286-*/ "Eleusis La Arwall"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
-
-[IMG:hero:0]: https://i.imgur.com/WLHvoo8.png "Keridian Dynamics Logo"
-[IMG:hero:1]: https://i.imgur.com/fn0gqpZ.jpg "Product Line Up"
 
 ---
 
