@@ -38,8 +38,9 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### Help Wanted
 
 > * Compatibility patches
-> * Would love someone to convert from FireSpitter to Stock and/or KSPWheel
+> * Contracts for these glorious parts!
 > * Variant Textures
+> * Would love someone to convert from FireSpitter to Stock and/or KSPWheel
 > * Model updates to Unity 2019
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
@@ -195,7 +196,7 @@ A very big THANK YOU to the following mod developers and specially the plugin-wr
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/202945-*/ "KeridianDynamics Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/KeridianDynamics/wiki/Known-Issues "GitHub Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/KeridianDynamics/blob/master/LICENSE "Github License"
-[MOD:notic]: https://zer0kerbal.github.io/KeridianDynamics/Notices "GitHub Pages"
+[MOD:notic]: https://zer0kerbal.github.io/KeridianDynamics/Notices "Notices"
 [MOD:parts]: https://zer0kerbal.github.io/KeridianDynamics/PartsCatalog "Parts Invoice"
 [MOD:pages]: https://zer0kerbal.github.io/KeridianDynamics/ "GitHub Pages"
 
