@@ -10,4 +10,4 @@
 - [Localizations](Localizations.md)
 - [ManualInstallation](ManualInstallation.md)
 - [Notices](Notices.md)
-- [Parts Catalog](Parts%20Catalog.md)
+- [PartsCatalog](PartsCatalog.md)
