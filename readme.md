@@ -124,7 +124,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [JSI Advanced Transparent Pods][atp]- *gives the  passable and nonpassable Storage Tanks an IVA overlay*
 * [PatchManager][pm] - *allows patches to be easily toggleable*
 
-
+[xpl]: https://forum.kerbalspaceprogram.com/index.php?/topic/54284-*/ "Extraplanetary Launchpads"
 [ifsc]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-* "Interstellar Fuel Switch CORE"
 
 [pm]: https://forum.kerbalspaceprogram.com/index.php?/topic/163072-*/ "PatchManager"
