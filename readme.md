@@ -196,7 +196,7 @@ A very big THANK YOU to the following mod developers and specially the plugin-wr
 [MOD:issue]: https://github.com/zer0Kerbal/KeridianDynamics/wiki/Known-Issues "GitHub Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/KeridianDynamics/blob/master/LICENSE "Github License"
 [MOD:notic]: https://zer0kerbal.github.io/KeridianDynamics/Notices "GitHub Pages"
-[MOD:parts]: https://zer0kerbal.github.io/KeridianDynamics/PartsList "Parts Invoice"
+[MOD:parts]: https://zer0kerbal.github.io/KeridianDynamics/PartsCatalog "Parts Invoice"
 [MOD:pages]: https://zer0kerbal.github.io/KeridianDynamics/ "GitHub Pages"
 
 <!--- mod -->
