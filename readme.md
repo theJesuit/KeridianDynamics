@@ -116,8 +116,11 @@ or [![CKAN][CKAN:img]][CKAN:url]
     * without this the Laucnhpads, Launchsite, Sledgehammer, MobileVAB, OrbitalHangar will have no function
 * [Kerbal Inventory System][kis] - *without this the Launchsite and Sledgehammer will have no function*
 * [Kerbal Attachment System][kas] - *without this the RecycleSite will dump all recycled resources*
-* [JSI Advanced Transparent Pods][atp]- *without this the passable and nonpassable Storage Tanks will have no IVA overlay*
-* [PatchManager][pm] - *without this the MM patches are not toggleable*
+* [JSI Advanced Transparent Pods][atp]- *this give the  passable and nonpassable Storage Tanks an IVA overlay*
+* [PatchManager][pm] - *allows patches to be easily toggleable*
+
+[pm]: https://forum.kerbalspaceprogram.com/index.php?/topic/163072-*/ "PatchManager"
+[cc]: https://forum.kerbalspaceprogram.com/index.php?/topic/91625-*/ "ContractConfigurator"
 
 ### Experimental Section
 
