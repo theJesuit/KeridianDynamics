@@ -1,7 +1,7 @@
-<!-- readme.md v1.6.9.0
+<!-- readme.md v1.6.9.1
 Keridian Dynamics (KDVA)
 created: 17 Jul 2017
-updated: 24 Jun 2022 -->
+updated: 04 Jul 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
@@ -29,6 +29,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### See More
 
+* see [Parts Invoice][MOD:parts] for a Parts Catalog with pictures
 * Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
 * Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
 * Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
@@ -37,8 +38,9 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### Help Wanted
 
 > * Compatibility patches
-> * Would love someone to convert from FireSpitter to Stock and/or KSPWheel
+> * Contracts for these glorious parts!
 > * Variant Textures
+> * Would love someone to convert from FireSpitter to Stock and/or KSPWheel
 > * Model updates to Unity 2019
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
@@ -71,50 +73,65 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 
-### Supports
-
-* Either [^3]
-  * [Module Manager][mm]
-  * [Module Manager /L][mml]
-
 ### Recommends
 
+* Either
+  * [Extraplanetary Launchpads (XPL)][xpl] or [SimpleConstruction! (SCON)][SCON]
+    * One of the XPL based construction addons are 99.9% required
+    * KSP will load all parts but some will have reduced or no function
+    * The configs autodetects if [XPL][xpl] or [SCON][SCON] are installed and uses the corresponding modules
+* [Module Manager][mm] or [Module Manager /L][mml][^3]
+  * Resource Switchers Supported: [Interstellar Fuel Switch CORE][ifsc], [Firespitter][fs], [B9PartSwitch][b9ps]
+  * One of the Resource Switcher addons are 99% required
+  * KSP will load all parts but some will have reduced or no function
+  * The configs autodetects if [Interstellar Fuel Switch CORE][ifsc], [Firespitter][fs] or [B9PartSwitch][b9ps] is installed and uses the corresponding modules
+  * If multiple ResourceSwitchers are installed, the priority goes as follows: [Interstellar Fuel Switch CORE][ifsc] > [Firespitter][fs] > [B9PartSwitch][b9ps]
+
+### Suggests
+
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+* [Not So SimpleConstructon! (NSSC)][NSSC]
 * [On Demand Fuel Cells (ODFC)][ODFC]
-* [TweakScale][tweakscale]
+* [SimpleLogistics! (SLOG)][SLOG]
+* [Transparent Command Pods (TP)][TCP]
+* [GTIndustries][gti]
+* [JSI Advanced Transparent Pods][atp]- *gives the  passable and nonpassable Storage Tanks an IVA overlay*
+* [Kerbal Inventory System][kis] - *this gives the Launchsite and Sledgehammer function*
+* [Kerbal Attachment System][kas] - *allows the RecycleSite to dump all recycled resources*
+* [PatchManager][pm] - *allows patches to be easily toggleable*
+* [TweakScale][twk]
 
 ### Supports
 
-* [B9 part switch][b9ps]
-* [Connected Living Space][cls]
-* [TweakScale][tweakscale]
-* [GTIndustries][gti]
-* [FAR][far]
-* [ContractConfigurator][contractconfigurator]
-* [Firespitter][fs] for fully functioning wheels. may invoke bouts of dizziness.
-* [On Demand Fuel Cells (ODFC)][ODFC]
-* [OSE Workshop][ose]
+* Resource Switchers
+  * [Interstellar Fuel Switch CORE][ifsc]
+  * [Firespitter CORE][fsc]
+  * [B9PartSwitch][b9ps]
 * [Community Tech Tree][ctt]
 * [Community Resource Pack][crp]
+* [Connected Living Space][cls]
+* [Contract Configurator][cc]
+* [FAR][far]
+* [Firespitter][fsc] for fully functioning wheels. may invoke bouts of dizziness.
+* [GTIndustries][gti]
+* [JSI Advanced Transparent Pods][atp]- *gives the  passable and nonpassable Storage Tanks an IVA overlay*
+* [Kerbal Inventory System][kis] - *this gives the Launchsite and Sledgehammer function*
+* [Kerbal Attachment System][kas] - *allows the RecycleSite to dump all recycled resources*
+* [On Demand Fuel Cells (ODFC)][ODFC]
+* [OSE Workshop][ose]
+* [PatchManager][pm] - *allows patches to be easily toggleable*
+* [ReStock][rstk]
+* [TweakScale][twk]
 
-* [Restock][restock]
+### Replaces
 
-* Either Resource Switch
-  * InterstellarFuelSwitch
-  * Firespitter
-  * B9PartSwitch
-  * 99.9% required
-    * KSP will load all parts but some will have reduced or no function
-    * The configs autodetects if Firespitter or InterstellarFuelSwitch or B9PartSwitch is installed and uses the corresponding modules. If multiple ResourceSwitchers are installed, the priority goes as follows: IFS > FS > B9PS
-* Either
-  * ExtraplanetaryLaunchpads
-  * SimpleConstruction
-  * 99.9% required
-    * without this the Laucnhpads, Launchsite, Sledgehammer, MobileVAB, OrbitalHangar will have no function
-* [Kerbal Inventory System][kis] - *without this the Launchsite and Sledgehammer will have no function*
-* [Kerbal Attachment System][kas] - *without this the RecycleSite will dump all recycled resources*
-* [JSI Advanced Transparent Pods][atp]- *without this the passable and nonpassable Storage Tanks will have no IVA overlay*
-* [PatchManager][pm] - *without this the MM patches are not toggleable*
+* KeridianDynamicsVesselAssembly
+
+### Tags
+
+* parts, config, flags, agency, resources, science, tech-tree, career, crewed, uncrewed
+
+---
 
 ### Experimental Section
 
@@ -123,12 +140,6 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * Installation:
   * Copy the 'GameData' folder from ".zip/WIP_ExperimentalSection" to your Kerbal Space Program directory and overwrite if asked.
 * The textures are complete overkill atm. Included lower-res textures (untested).
-
----
-
-### Conflicts
-
-* none known
 
 ---
 
@@ -173,8 +184,8 @@ A very big THANK YOU to the following mod developers and specially the plugin-wr
 
 ---
 
-![0][IMG:hero:0]
-![1][IMG:hero:1]
+<img src="https://i.imgur.com/WLHvoo8.png" alt="Keridian Dynamics Logo" width="72%" height="72%">
+<img src="https://i.imgur.com/fn0gqpZ.jpg" alt="Product Line Up" width="72%" height="72%">
 
 <!-- mod links -->
 
@@ -185,7 +196,8 @@ A very big THANK YOU to the following mod developers and specially the plugin-wr
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/202945-*/ "KeridianDynamics Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/KeridianDynamics/wiki/Known-Issues "GitHub Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/KeridianDynamics/blob/master/LICENSE "Github License"
-[MOD:notic]: https://zer0kerbal.github.io/KeridianDynamics/Notices "GitHub Pages"
+[MOD:notic]: https://zer0kerbal.github.io/KeridianDynamics/Notices "Notices"
+[MOD:parts]: https://zer0kerbal.github.io/KeridianDynamics/PartsCatalog "Parts Invoice"
 [MOD:pages]: https://zer0kerbal.github.io/KeridianDynamics/ "GitHub Pages"
 
 <!--- mod -->
@@ -236,17 +248,25 @@ A very big THANK YOU to the following mod developers and specially the plugin-wr
 [SLOG]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics!"
 [NSSC]: https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*/ "Not So SimpleConstructon!"
 
-[fs]: https://github.com/snjo/Firespitter/ "Firespitter"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
-[twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
-[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
 [atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
 [b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
+[cc]: https://forum.kerbalspaceprogram.com/index.php?/topic/91625-*/ "ContractConfigurator"
+[cls]: http://forum.kerbalspaceprogram.com/index.php?showtopic=192130-*/ "Connected Living Space"
+[crp]: http://forum.kerbalspaceprogram.com/index.php?/topic/83007-*/ "Community Resource Pack"
+[ctt]: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-*/ "Community Tech Tree"
+[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
+[fsc]: https://github.com/snjo/Firespitter/ "Firespitter"
+[gti]: http://forum.kerbalspaceprogram.com/index.php?/topic/152667-*/ "GTIndustries"
+[ifsc]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-* "Interstellar Fuel Switch CORE"
 [kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
 [kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
-
-[crp]: http://forum.kerbalspaceprogram.com/index.php?/topic/83007-*/ "Community Resource Pack"
+[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
+[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+[ose]: http://forum.kerbalspaceprogram.com/index.php?/topic/163246-*/ "OSE Workshop"
+[pm]: https://forum.kerbalspaceprogram.com/index.php?/topic/163072-*/ "PatchManager"
+[rstk]: https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/ "ReStock"
+[twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
+[xpl]: https://forum.kerbalspaceprogram.com/index.php?/topic/54284-*/ "Extraplanetary Launchpads"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
@@ -287,9 +307,6 @@ A very big THANK YOU to the following mod developers and specially the plugin-wr
 
 [eleusislaarwall]: https://forum.kerbalspaceprogram.com/index.php?/profile/116286-*/ "Eleusis La Arwall"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
-
-[IMG:hero:0]: https://i.imgur.com/WLHvoo8.png "Keridian Dynamics Logo"
-[IMG:hero:1]: https://i.imgur.com/fn0gqpZ.jpg "Product Line Up"
 
 ---
 
