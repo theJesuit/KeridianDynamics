@@ -102,8 +102,8 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 * [Restock][restock]
 
-[ose] http://forum.kerbalspaceprogram.com/index.php?/topic/163246-*/ "OSE Workshop"
-[ctt] https://forum.kerbalspaceprogram.com/index.php?/topic/90530-*/ "Community Tech Tree"
+[ose]: http://forum.kerbalspaceprogram.com/index.php?/topic/163246-*/ "OSE Workshop"
+[ctt]: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-*/ "Community Tech Tree"
 
 * A Resource Switcher
   * [InterstellarFuelSwitch][ifs]
