@@ -33,6 +33,13 @@
   * now
     * 
 
+### Graphical changes
+
+* Resize Flags
+  * from 256x160 to 512x320
+* HeroLogo
+  * update
+
 ### Status
 
 * Issues
