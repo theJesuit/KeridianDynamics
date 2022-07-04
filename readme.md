@@ -94,7 +94,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [GTIndustries][gti]
 * [FAR][far]
 * [ContractConfigurator][cc]
-* [Firespitter][fs] for fully functioning wheels. may invoke bouts of dizziness.
+* [Firespitter][fsc] for fully functioning wheels. may invoke bouts of dizziness.
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [OSE Workshop][ose]
 * [Community Tech Tree][ctt]
@@ -102,8 +102,6 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 * [ReStock][restock]
 
-[ose]: http://forum.kerbalspaceprogram.com/index.php?/topic/163246-*/ "OSE Workshop"
-[ctt]: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-*/ "Community Tech Tree"
 
 * One of the Resource Switchers is 99% required for the mod to function
   * KSP will load all parts but some will have reduced or no function
@@ -138,7 +136,9 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
 [b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
 [cc]: https://forum.kerbalspaceprogram.com/index.php?/topic/91625-*/ "ContractConfigurator"
+[cls]: http://forum.kerbalspaceprogram.com/index.php?showtopic=192130-*/ "Connected Living Space"
 [crp]: http://forum.kerbalspaceprogram.com/index.php?/topic/83007-*/ "Community Resource Pack"
+[ctt]: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-*/ "Community Tech Tree"
 [far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
 [fsc]: https://github.com/snjo/Firespitter/ "Firespitter"
 [ifsc]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-* "Interstellar Fuel Switch CORE"
@@ -146,10 +146,10 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+[ose]: http://forum.kerbalspaceprogram.com/index.php?/topic/163246-*/ "OSE Workshop"
 [pm]: https://forum.kerbalspaceprogram.com/index.php?/topic/163072-*/ "PatchManager"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 [xpl]: https://forum.kerbalspaceprogram.com/index.php?/topic/54284-*/ "Extraplanetary Launchpads"
-
 
 
 
