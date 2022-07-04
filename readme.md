@@ -121,6 +121,16 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [ReStock][rstk]
 * [TweakScale][twk]
 
+### Replaces
+
+* KeridianDynamicsVesselAssembly
+
+### Tags
+
+* parts, config, flags, agency, resources, science, tech-tree, career, crewed, uncrewed
+
+---
+
 ### Experimental Section
 
 * WARNING:
@@ -128,12 +138,6 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * Installation:
   * Copy the 'GameData' folder from ".zip/WIP_ExperimentalSection" to your Kerbal Space Program directory and overwrite if asked.
 * The textures are complete overkill atm. Included lower-res textures (untested).
-
----
-
-### Conflicts
-
-* none known
 
 ---
 
