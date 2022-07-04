@@ -85,11 +85,11 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Supports
 
-* Resource Switchers
-  * [InterstellarFuelSwitch][ifs]
-  * [Firespitter][fs]
-  * [B9PartSwitch][b9ps]
 * [Connected Living Space][cls]
+* Resource Switchers
+  * [Interstellar Fuel Switch CORE][ifsc]
+  * [Firespitter CORE][fsc]
+  * [B9PartSwitch][b9ps]
 * [TweakScale][twk]
 * [GTIndustries][gti]
 * [FAR][far]
@@ -100,7 +100,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [Community Tech Tree][ctt]
 * [Community Resource Pack][crp]
 
-* [Restock][restock]
+* [ReStock][restock]
 
 [ose]: http://forum.kerbalspaceprogram.com/index.php?/topic/163246-*/ "OSE Workshop"
 [ctt]: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-*/ "Community Tech Tree"
@@ -124,11 +124,8 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [JSI Advanced Transparent Pods][atp]- *gives the  passable and nonpassable Storage Tanks an IVA overlay*
 * [PatchManager][pm] - *allows patches to be easily toggleable*
 
-[xpl]: https://forum.kerbalspaceprogram.com/index.php?/topic/54284-*/ "Extraplanetary Launchpads"
-[ifsc]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-* "Interstellar Fuel Switch CORE"
+[gti]: http://forum.kerbalspaceprogram.com/index.php?/topic/152667-*/ "GTIndustries"
 
-[pm]: https://forum.kerbalspaceprogram.com/index.php?/topic/163072-*/ "PatchManager"
-[cc]: https://forum.kerbalspaceprogram.com/index.php?/topic/91625-*/ "ContractConfigurator"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
 [TCP]: https://forum.kerbalspaceprogram.com/index.php?/topic/187495-*/ "Transparent Command Pods"
@@ -136,17 +133,23 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [SLOG]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics!"
 [NSSC]: https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*/ "Not So SimpleConstructon!"
 
-[fs]: https://github.com/snjo/Firespitter/ "Firespitter"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
-[twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
-[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
+[restock]: https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/ "ReStock"
+
 [atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
 [b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
+[cc]: https://forum.kerbalspaceprogram.com/index.php?/topic/91625-*/ "ContractConfigurator"
+[crp]: http://forum.kerbalspaceprogram.com/index.php?/topic/83007-*/ "Community Resource Pack"
+[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
+[fsc]: https://github.com/snjo/Firespitter/ "Firespitter"
+[ifsc]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-* "Interstellar Fuel Switch CORE"
 [kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
 [kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
+[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
+[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+[pm]: https://forum.kerbalspaceprogram.com/index.php?/topic/163072-*/ "PatchManager"
+[twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
+[xpl]: https://forum.kerbalspaceprogram.com/index.php?/topic/54284-*/ "Extraplanetary Launchpads"
 
-[crp]: http://forum.kerbalspaceprogram.com/index.php?/topic/83007-*/ "Community Resource Pack"
 
 
 
