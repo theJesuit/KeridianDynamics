@@ -10,12 +10,16 @@
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
 
-## Version 0.8.9.1 - `<Brushing off the Construction Dust>`
+## Version 0.8.99.0 - `<Brushing off the Construction Dust>`
 
 * 04 Jul 2022
 * Released for Kerbal Space Program 1.12.x
 
 ### Changes
+
+This is the first in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update, I can update the addon in a more manageable way.
+
+
 
 ### minor changes
 
@@ -39,6 +43,13 @@
   * from 256x160 to 512x320
 * HeroLogo
   * update
+
+### Localization
+
+[@ShadowSTAR616](https://github.com/ShadowSTARS616) reports
+
+* [KS-FAVA.cfg]
+  * [ ] part not localized
 
 ### Status
 
