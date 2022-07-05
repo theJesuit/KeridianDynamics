@@ -35,7 +35,16 @@ This is the first in a series of updates to this addon. Each update will update 
   * was
     * d
   * now
-    * 
+* [USI-MKS.cfg] v1.0.0.1
+  * renamed from [MKS.cfg]
+
+### Parts
+
+[KD-3DPrinter.cfg] v1.1.0.0a NEW
+  * add header
+[KD-3D-Printer.cfg] v1.1.0.0b OG
+  * add header
+
 
 ### Graphical changes
 
