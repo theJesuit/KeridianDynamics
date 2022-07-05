@@ -29,14 +29,18 @@ This is the first in a series of updates to this addon. Each update will update 
     * @MODULE[ModuleResourceConverter],*:HAS[!#ConverterName[Ore-->Metal+LFO]]
   * now
     * @MODULE[ModuleResourceConverter],*:HAS[#ConverterName[Ore-->Metal+LFO]]
-* [KD-OSERocketParts.cfg]
+  * remove `!` hitchhiker
+* [KD-OSERocketParts.cfg] v1.1.0.0
   * PatchManager\PluginData
   * add header
   * was
-    * d
+    * @OSE_DefaultRecipe:AFTER[Workshop]
   * now
-* [USI-MKS.cfg] v1.0.0.1
-  * renamed from [MKS.cfg]
+    * @OSE_DefaultRecipe:NEEDS[Workshop]:AFTER[Workshop]
+  * was
+    * @PART[*]:HAS[OSE_PartRecipe:HAS[#MaterialKits[1]]]:AFTER[Workshop]
+  * now
+    * @PART[*]:HAS[@OSE_PartRecipe:HAS[#MaterialKits[1]]]:NEEDS[Workshop]:AFTER[Workshop]
 
 ### Parts
 
