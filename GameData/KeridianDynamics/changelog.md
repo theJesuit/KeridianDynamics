@@ -42,6 +42,12 @@ This is the first in a series of updates to this addon. Each update will update 
   * now
     * @PART[*]:HAS[@OSE_PartRecipe:HAS[#MaterialKits[1]]]:NEEDS[Workshop]:AFTER[Workshop]
 
+### Compatibility
+
+* [KerbalInventorySystem.cfg] v1.1.0.0
+  * rename from [KIS.cfg]
+  * d
+
 ### Parts
 
 * Replace
@@ -52,7 +58,14 @@ This is the first in a series of updates to this addon. Each update will update 
   * which will go away with version 0.9.0.0-release
     * KD-3D-Printer
     * KD-3DPrinter
-
+* Update/Lint/Asset pass
+  * [KD-ST1001FS] v1.1.0.0
+  * [KD-ST1251FS] v1.1.0.0
+  * [KD-ST1252FS] v1.1.0.0
+  * [KD-ST1253FS] v1.1.0.0
+  * [KD-SledgeHammer.cfg] v1.1.0.0
+    * move KIS module into part
+    * add :NEEDS[KIS] to make part only show if KIS is installed
 
 ### Graphical changes
 
