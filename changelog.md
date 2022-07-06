@@ -42,6 +42,12 @@ This is the first in a series of updates to this addon. Each update will update 
   * now
     * @PART[*]:HAS[@OSE_PartRecipe:HAS[#MaterialKits[1]]]:NEEDS[Workshop]:AFTER[Workshop]
 
+### Compatibility
+
+* [KerbalInventorySystem.cfg] v1.1.0.0 
+  * rename from [KIS.cfg]
+  * d
+
 ### Parts
 
 * Replace
