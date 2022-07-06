@@ -81,10 +81,10 @@ or [![CKAN][CKAN:img]][CKAN:url]
     * KSP will load all parts but some will have reduced or no function
     * The configs autodetects if [XPL][xpl] or [SCON][SCON] are installed and uses the corresponding modules
 * [Module Manager][mm] or [Module Manager /L][mml][^3]
-  * Resource Switchers Supported: [Interstellar Fuel Switch CORE][ifsc], [Firespitter][fs], [B9PartSwitch][b9ps]
+  * Resource Switchers Supported: [Interstellar Fuel Switch CORE][ifsc], [Firespitter CORE][fsc], [B9PartSwitch][b9ps]
   * One of the Resource Switcher addons are 99% required
   * KSP will load all parts but some will have reduced or no function
-  * The configs autodetects if [Interstellar Fuel Switch CORE][ifsc], [Firespitter][fs] or [B9PartSwitch][b9ps] is installed and uses the corresponding modules
+  * The configs autodetects if [Interstellar Fuel Switch CORE][ifsc], [Firespitter CORE][fsc] or [B9PartSwitch][b9ps] is installed and uses the corresponding modules
   * If multiple ResourceSwitchers are installed, the priority goes as follows: [Interstellar Fuel Switch CORE][ifsc] > [Firespitter][fs] > [B9PartSwitch][b9ps]
 
 ### Suggests
