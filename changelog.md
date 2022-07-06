@@ -44,7 +44,7 @@ This is the first in a series of updates to this addon. Each update will update 
 
 ### Compatibility
 
-* [KerbalInventorySystem.cfg] v1.1.0.0 
+* [KerbalInventorySystem.cfg] v1.1.0.0
   * rename from [KIS.cfg]
   * d
 
@@ -63,6 +63,9 @@ This is the first in a series of updates to this addon. Each update will update 
   * [KD-ST1251FS] v1.1.0.0
   * [KD-ST1252FS] v1.1.0.0
   * [KD-ST1253FS] v1.1.0.0
+  * [KD-SledgeHammer.cfg] v1.1.0.0
+    * move KIS module into part
+    * add :NEEDS[KIS] to make part only show if KIS is installed
 
 ### Graphical changes
 
