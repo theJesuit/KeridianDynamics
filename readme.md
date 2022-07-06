@@ -173,7 +173,7 @@ A very big THANK YOU to the following mod developers and specially the plugin-wr
 
 #### Original (0) - Author: [Eleusis La Arwall][eleusislaarwall]
 
-> Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:dnload] - Source: [Dropbox][MOD:0:source]  
+> Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [SpaceDock][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 
 ---
