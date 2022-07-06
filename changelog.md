@@ -19,7 +19,15 @@
 
 This is the first in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update, I can update the addon in a more manageable way.
 
-
+* Parts Updated in this Pass:
+  * [KDChemicalReactor]
+  * [KD3DPrinter-250.cfg]
+  * [KD-SledgeHammer.cfg]
+  * Cargo Tanks
+    * [KD-ST1001FS]
+    * [KD-ST1251FS]
+    * [KD-ST1252FS]
+    * [KD-ST1253FS]
 
 ### minor changes
 
@@ -46,7 +54,8 @@ This is the first in a series of updates to this addon. Each update will update 
 
 * [KerbalInventorySystem.cfg] v1.1.0.0
   * rename from [KIS.cfg]
-  * d
+  * remove Sledgehammer patches
+  * no longer necessary
 
 ### Parts
 
@@ -81,9 +90,9 @@ This is the first in a series of updates to this addon. Each update will update 
 * [KS-FAVA.cfg]
   * part localized
 * [KDChemicalReactor]
-  * #KDVA-KDChemicalReactor-titl = KD-ChemicalReactor 2.5m
+  * add "2.5m" to title
 * [KD3DPrinter-250.cfg]
-  * #KDVA-KD3DPrinter-titl = KD-3D-Printer 2.5m
+  * add "2.5m" add "2.5m" to title
 
 ### Status
 
