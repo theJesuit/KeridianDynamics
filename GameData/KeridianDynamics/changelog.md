@@ -66,7 +66,11 @@ This is the first in a series of updates to this addon. Each update will update 
 [@ShadowSTAR616](https://github.com/ShadowSTARS616) reports
 
 * [KS-FAVA.cfg]
-  * [ ] part not localized
+  * part localized
+* [KDChemicalReactor]
+  * #KDVA-KDChemicalReactor-titl = KD-ChemicalReactor 2.5m
+* [KD3DPrinter-250.cfg]
+  * #KDVA-KD3DPrinter-titl = KD-3D-Printer 2.5m
 
 ### Status
 
