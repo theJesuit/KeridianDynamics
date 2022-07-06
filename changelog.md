@@ -44,10 +44,14 @@ This is the first in a series of updates to this addon. Each update will update 
 
 ### Parts
 
-[KD-3DPrinter.cfg] v1.1.0.0a NEW
-  * add header
-[KD-3D-Printer.cfg] v1.1.0.0b OG
-  * add header
+* Replace
+  * [KD-3DPrinter.cfg] NEW
+  * [KD-3D-Printer.cfg] Original
+  * new part name is: KD-3DPrinter-250
+* [ghostparts.cfg]
+  * which will go away with version 0.9.0.0-release
+    * KD-3D-Printer
+    * KD-3DPrinter
 
 
 ### Graphical changes
@@ -62,7 +66,11 @@ This is the first in a series of updates to this addon. Each update will update 
 [@ShadowSTAR616](https://github.com/ShadowSTARS616) reports
 
 * [KS-FAVA.cfg]
-  * [ ] part not localized
+  * part localized
+* [KDChemicalReactor]
+  * #KDVA-KDChemicalReactor-titl = KD-ChemicalReactor 2.5m
+* [KD3DPrinter-250.cfg]
+  * #KDVA-KD3DPrinter-titl = KD-3D-Printer 2.5m
 
 ### Status
 
