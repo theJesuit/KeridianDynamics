@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
 
-## Version 0.8.99.0 - `<Brushing off the Construction Dust>`
+## Version 0.8.99.0-prerelease - `<Please Read the Instructions #1>` edition
 
 * 04 Jul 2022
 * Released for Kerbal Space Program 1.12.x
@@ -33,11 +33,11 @@ This is the first in a series of updates to this addon. Each update will update 
 
 * [SimpleConstruction.cfg] v v1.1.0.0
   * add header
-  * was
-    * @MODULE[ModuleResourceConverter],*:HAS[!#ConverterName[Ore-->Metal+LFO]]
-  * now
-    * @MODULE[ModuleResourceConverter],*:HAS[#ConverterName[Ore-->Metal+LFO]]
   * remove `!` hitchhiker
+    * was
+      * @MODULE[ModuleResourceConverter],*:HAS[!#ConverterName[Ore-->Metal+LFO]]
+    * now
+      * @MODULE[ModuleResourceConverter],*:HAS[#ConverterName[Ore-->Metal+LFO]]
 * [KD-OSERocketParts.cfg] v1.1.0.0
   * PatchManager\PluginData
   * add header
@@ -48,7 +48,7 @@ This is the first in a series of updates to this addon. Each update will update 
   * was
     * @PART[*]:HAS[OSE_PartRecipe:HAS[#MaterialKits[1]]]:AFTER[Workshop]
   * now
-    * @PART[*]:HAS[@OSE_PartRecipe:HAS[#MaterialKits[1]]]:NEEDS[Workshop]:AFTER[Workshop]
+    * @PART[*]:HAS[@OSE_PartRecipe:HAS[#MaterialKits[1]]]:NEEDS[Workshop]:AFTER[Workshop]+
 
 ### Compatibility
 
@@ -75,7 +75,9 @@ This is the first in a series of updates to this addon. Each update will update 
   * [KD-SledgeHammer.cfg] v1.1.0.0
     * move KIS module into part
     * add :NEEDS[KIS] to make part only show if KIS is installed
-
+  * closes #6 - [Bug 🐞]: Also survey stakes are upside down when placed,
+  * closes #5 - [Bug 🐞]: Cannot equip sledgehammer or stakes
+  
 ### Graphical changes
 
 * Resize Flags
@@ -83,25 +85,44 @@ This is the first in a series of updates to this addon. Each update will update 
 * HeroLogo
   * update
 
+### IVA/Spaces
+
+* renamed from `_` to `-` in IVA names
+* started splitting out the individual IVA's into separate files
+
 ### Localization
 
-[@ShadowSTAR616](https://github.com/ShadowSTARS616) reports
-
+* Add
+  * [readme.md] v2.1.2.0
+  * [quickstart.md] v1.0.1.1
+* Many minor updates to [en-us.cfg]
+  * including renaming from us-en.cfg to en-us.cfg
+  * simplified the localization string names
+  * scraped KSP dictionary for settings
 * [KS-FAVA.cfg]
-  * part localized
+  * [@ShadowSTAR616](https://github.com/ShadowSTARS616) reports
+  * part now localized
+  * closes #37 - [Bug 🐞]: KS-FAVA part not localized
 * [KDChemicalReactor]
   * add "2.5m" to title
 * [KD3DPrinter-250.cfg]
   * add "2.5m" add "2.5m" to title
+* updates #33 - Part Localization
+* updates #16 - English <us-en.cfg>
+* updates #15 - Localization - Master
 
 ### Status
 
 * Issues
-  * 
+  * closes #10 - KeridianDynamics 0.8.99.0-prerelease `<Please Read the Instructions #1>` edition
+  * closes #11 - 0.8.99.0-prerelease Verify Legal Mumbo Jumbo
+  * closes #12 - 0.8.99.0-prerelease Update Documentation
+  * closes #13 - 0.8.99.0-prerelease Social Media
+  * closes #4 - friznit updates
 
 ---
 
-## Version 0.8.9.1 - `<Brushing off the Construction Dust>`
+## Version 0.8.9.1-prerelease - `<Brushing off the Construction Dust>`
 
 * >>-- adopted for curation by @zer0Kerbal --<<
 * moved changelog into separate file
