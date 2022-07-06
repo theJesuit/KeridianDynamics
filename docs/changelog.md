@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
 
-## Version 0.8.99.0 - `<Brushing off the Construction Dust>`
+## Version 0.8.99.0-prerelease - `<Please Read the Instructions #1>` edition
 
 * 04 Jul 2022
 * Released for Kerbal Space Program 1.12.x
@@ -19,33 +19,65 @@
 
 This is the first in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update, I can update the addon in a more manageable way.
 
-
+* Parts Updated in this Pass:
+  * [KDChemicalReactor]
+  * [KD3DPrinter-250.cfg]
+  * [KD-SledgeHammer.cfg]
+  * Cargo Tanks
+    * [KD-ST1001FS]
+    * [KD-ST1251FS]
+    * [KD-ST1252FS]
+    * [KD-ST1253FS]
 
 ### minor changes
 
 * [SimpleConstruction.cfg] v v1.1.0.0
   * add header
-  * was
-    * @MODULE[ModuleResourceConverter],*:HAS[!#ConverterName[Ore-->Metal+LFO]]
-  * now
-    * @MODULE[ModuleResourceConverter],*:HAS[#ConverterName[Ore-->Metal+LFO]]
-* [KD-OSERocketParts.cfg]
+  * remove `!` hitchhiker
+    * was
+      * @MODULE[ModuleResourceConverter],*:HAS[!#ConverterName[Ore-->Metal+LFO]]
+    * now
+      * @MODULE[ModuleResourceConverter],*:HAS[#ConverterName[Ore-->Metal+LFO]]
+* [KD-OSERocketParts.cfg] v1.1.0.0
   * PatchManager\PluginData
   * add header
   * was
-    * d
+    * @OSE_DefaultRecipe:AFTER[Workshop]
   * now
-* [USI-MKS.cfg] v1.0.0.1
-  * renamed from [MKS.cfg]
+    * @OSE_DefaultRecipe:NEEDS[Workshop]:AFTER[Workshop]
+  * was
+    * @PART[*]:HAS[OSE_PartRecipe:HAS[#MaterialKits[1]]]:AFTER[Workshop]
+  * now
+    * @PART[*]:HAS[@OSE_PartRecipe:HAS[#MaterialKits[1]]]:NEEDS[Workshop]:AFTER[Workshop]+
+
+### Compatibility
+
+* [KerbalInventorySystem.cfg] v1.1.0.0
+  * rename from [KIS.cfg]
+  * remove Sledgehammer patches
+  * no longer necessary
 
 ### Parts
 
-[KD-3DPrinter.cfg] v1.1.0.0a NEW
-  * add header
-[KD-3D-Printer.cfg] v1.1.0.0b OG
-  * add header
-
-
+* Replace
+  * [KD-3DPrinter.cfg] NEW
+  * [KD-3D-Printer.cfg] Original
+  * new part name is: KD-3DPrinter-250
+* [ghostparts.cfg]
+  * which will go away with version 0.9.0.0-release
+    * KD-3D-Printer
+    * KD-3DPrinter
+* Update/Lint/Asset pass
+  * [KD-ST1001FS] v1.1.0.0
+  * [KD-ST1251FS] v1.1.0.0
+  * [KD-ST1252FS] v1.1.0.0
+  * [KD-ST1253FS] v1.1.0.0
+  * [KD-SledgeHammer.cfg] v1.1.0.0
+    * move KIS module into part
+    * add :NEEDS[KIS] to make part only show if KIS is installed
+  * closes #6 - [Bug 🐞]: Also survey stakes are upside down when placed,
+  * closes #5 - [Bug 🐞]: Cannot equip sledgehammer or stakes
+  
 ### Graphical changes
 
 * Resize Flags
@@ -53,21 +85,44 @@ This is the first in a series of updates to this addon. Each update will update 
 * HeroLogo
   * update
 
+### IVA/Spaces
+
+* renamed from `_` to `-` in IVA names
+* started splitting out the individual IVA's into separate files
+
 ### Localization
 
-[@ShadowSTAR616](https://github.com/ShadowSTARS616) reports
-
+* Add
+  * [readme.md] v2.1.2.0
+  * [quickstart.md] v1.0.1.1
+* Many minor updates to [en-us.cfg]
+  * including renaming from us-en.cfg to en-us.cfg
+  * simplified the localization string names
+  * scraped KSP dictionary for settings
 * [KS-FAVA.cfg]
-  * [ ] part not localized
+  * [@ShadowSTAR616](https://github.com/ShadowSTARS616) reports
+  * part now localized
+  * closes #37 - [Bug 🐞]: KS-FAVA part not localized
+* [KDChemicalReactor]
+  * add "2.5m" to title
+* [KD3DPrinter-250.cfg]
+  * add "2.5m" add "2.5m" to title
+* updates #33 - Part Localization
+* updates #16 - English <us-en.cfg>
+* updates #15 - Localization - Master
 
 ### Status
 
 * Issues
-  * 
+  * closes #10 - KeridianDynamics 0.8.99.0-prerelease `<Please Read the Instructions #1>` edition
+  * closes #11 - 0.8.99.0-prerelease Verify Legal Mumbo Jumbo
+  * closes #12 - 0.8.99.0-prerelease Update Documentation
+  * closes #13 - 0.8.99.0-prerelease Social Media
+  * closes #4 - friznit updates
 
 ---
 
-## Version 0.8.9.1 - `<Brushing off the Construction Dust>`
+## Version 0.8.9.1-prerelease - `<Brushing off the Construction Dust>`
 
 * >>-- adopted for curation by @zer0Kerbal --<<
 * moved changelog into separate file
