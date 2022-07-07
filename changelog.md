@@ -139,15 +139,15 @@ This is the first in a series of updates to this addon. Each update will update 
 * merged in patches
 * automated deploy/release process
 
-// much lint was shaved
-// misplaces spare right brace in Changelog.cfg
-// Changelog.cfg:32 :: unexpected }
-// KD-ExtensionPad.cfg:224 :: unexpected }
-// KD-Keronica.cfg:164 :: unexpected }
-// KD-LaunchPad.cfg:132 :: unexpected }
-// KD-LaunchPadSide.cfg:138 :: unexpected }
-// KD-LaunchPadTop.cfg:138 :: unexpected }
-// KD-Pad.cfg:84 :: unexpected }
+* much lint was shaved
+* misplaces spare right brace in Changelog.cfg
+* Changelog.cfg:32 :: unexpected
+* KD-ExtensionPad.cfg:224 :: unexpected
+* KD-Keronica.cfg:164 :: unexpected
+* KD-LaunchPad.cfg:132 :: unexpected
+* KD-LaunchPadSide.cfg:138 :: unexpected
+* KD-LaunchPadTop.cfg:138 :: unexpected
+* KD-Pad.cfg:84 :: unexpected
 
 ---
 
