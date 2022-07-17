@@ -15,6 +15,39 @@
 * 04 Jul 2022
 * Released for Kerbal Space Program 1.12.x
 
+### Summary
+
+### Changes
+
+### Localization
+
+* Add
+  * chinese
+  * thank you to [@ShadowSTAR616](https://github.com/ShadowSTARS616)
+* Many minor updates to [en-us.cfg]
+  * including renaming from us-en.cfg to en-us.cfg
+  * simplified the localization string names
+  * scraped KSP dictionary for settings
+* [KDChemicalReactor]
+  * add "2.5m" to title
+* [KD3DPrinter-250.cfg]
+  * add "2.5m" add "2.5m" to title
+* updates #33 - Part Localization
+* updates #16 - English <us-en.cfg>
+* updates #15 - Localization - Master
+
+### Status
+
+* Issues
+
+
+---
+
+## Version 0.8.99.0-prerelease - `<Please Read the Instructions #1>` edition
+
+* 04 Jul 2022
+* Released for Kerbal Space Program 1.12.x
+
 ### Changes
 
 This is the first in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update, I can update the addon in a more manageable way.
@@ -139,15 +172,15 @@ This is the first in a series of updates to this addon. Each update will update 
 * merged in patches
 * automated deploy/release process
 
-// much lint was shaved
-// misplaces spare right brace in Changelog.cfg
-// Changelog.cfg:32 :: unexpected }
-// KD-ExtensionPad.cfg:224 :: unexpected }
-// KD-Keronica.cfg:164 :: unexpected }
-// KD-LaunchPad.cfg:132 :: unexpected }
-// KD-LaunchPadSide.cfg:138 :: unexpected }
-// KD-LaunchPadTop.cfg:138 :: unexpected }
-// KD-Pad.cfg:84 :: unexpected }
+* much lint was shaved
+* misplaces spare right brace in Changelog.cfg
+* Changelog.cfg:32 :: unexpected
+* KD-ExtensionPad.cfg:224 :: unexpected
+* KD-Keronica.cfg:164 :: unexpected
+* KD-LaunchPad.cfg:132 :: unexpected
+* KD-LaunchPadSide.cfg:138 :: unexpected
+* KD-LaunchPadTop.cfg:138 :: unexpected
+* KD-Pad.cfg:84 :: unexpected
 
 ---
 

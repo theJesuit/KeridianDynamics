@@ -1,13 +1,15 @@
-<!-- readme.md v1.6.9.1
+<!-- readme.md v1.6.9.2
 Keridian Dynamics (KDVA)
 created: 17 Jul 2017
-updated: 04 Jul 2022 -->
+updated: 05 Jul 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![Keridian Dynamics][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url] 
+[![Keridian Dynamics][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]   
 [![Pages][MOD:pages:shd]][MOD:pages]
+
+
 
 # Keridian Dynamics (KDVA)
 
@@ -29,7 +31,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### See More
 
-* see [Parts Invoice][MOD:parts] for a Parts Catalog with pictures
+* See our [Parts Catalog][MOD:parts] for part pictures
+* For more images, see our [Marketing Slicks][MOD:markt]
 * Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
 * Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
 * Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
@@ -40,8 +43,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Compatibility patches
 > * Contracts for these glorious parts!
 > * Variant Textures
-> * Would love someone to convert from FireSpitter to Stock and/or KSPWheel
 > * Model updates to Unity 2019
+> * Marketing Images and Videos such as hero shots, animated gifs, short highlight
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
 ---
@@ -81,10 +84,10 @@ or [![CKAN][CKAN:img]][CKAN:url]
     * KSP will load all parts but some will have reduced or no function
     * The configs autodetects if [XPL][xpl] or [SCON][SCON] are installed and uses the corresponding modules
 * [Module Manager][mm] or [Module Manager /L][mml][^3]
-  * Resource Switchers Supported: [Interstellar Fuel Switch CORE][ifsc], [Firespitter][fs], [B9PartSwitch][b9ps]
+  * Resource Switchers Supported: [Interstellar Fuel Switch CORE][ifsc], [Firespitter CORE][fsc], [B9PartSwitch][b9ps]
   * One of the Resource Switcher addons are 99% required
   * KSP will load all parts but some will have reduced or no function
-  * The configs autodetects if [Interstellar Fuel Switch CORE][ifsc], [Firespitter][fs] or [B9PartSwitch][b9ps] is installed and uses the corresponding modules
+  * The configs autodetects if [Interstellar Fuel Switch CORE][ifsc], [Firespitter CORE][fsc] or [B9PartSwitch][b9ps] is installed and uses the corresponding modules
   * If multiple ResourceSwitchers are installed, the priority goes as follows: [Interstellar Fuel Switch CORE][ifsc] > [Firespitter][fs] > [B9PartSwitch][b9ps]
 
 ### Suggests
@@ -173,7 +176,7 @@ A very big THANK YOU to the following mod developers and specially the plugin-wr
 
 #### Original (0) - Author: [Eleusis La Arwall][eleusislaarwall]
 
-> Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:dnload] - Source: [Dropbox][MOD:0:source]  
+> Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [SpaceDock][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 
 ---
@@ -196,14 +199,13 @@ A very big THANK YOU to the following mod developers and specially the plugin-wr
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/202945-*/ "KeridianDynamics Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/KeridianDynamics/wiki/Known-Issues "GitHub Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/KeridianDynamics/blob/master/LICENSE "Github License"
+[MOD:markt]: https://zer0kerbal.github.io/MOD-NAME/Marketing "Marketing Slicks"
 [MOD:notic]: https://zer0kerbal.github.io/KeridianDynamics/Notices "Notices"
 [MOD:parts]: https://zer0kerbal.github.io/KeridianDynamics/PartsCatalog "Parts Catalog"
 [MOD:pages]: https://zer0kerbal.github.io/KeridianDynamics/ "GitHub Pages"
 
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KeridianDynamics/master/json/mod.json
-
-[CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KeridianDynamics/master/json/code.json
 
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
