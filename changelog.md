@@ -24,12 +24,18 @@ This is the second in a series of updates to this addon. Each update will update
 ### Localization
 
 * Add
-  * chinese
-  * thank you to [@ShadowSTAR616](https://github.com/ShadowSTARS616)
+  * <zh-cn.cfg> v1.0.0.1
+  * Simplified Chinese
+  * 太感谢了 (thank you) to [@ShadowSTAR616](https://github.com/ShadowSTARS616)
 * Many minor updates to [en-us.cfg]
   * including renaming from us-en.cfg to en-us.cfg
   * simplified the localization string names
   * scraped KSP dictionary for settings
+* [DrillScience.cfg] v1.1.1.0
+  * Add strings for drill science
+    * [#KDVA-drill-name] = Dig Ore sample
+    * [#KDVA-drill-coll] = Collect Ore sample
+    * [#KDVA-drill-rset] = Reset Drill
 * [KDChemicalReactor]
   * add "2.5m" to title
 * [KD3DPrinter-250.cfg]
@@ -43,7 +49,7 @@ This is the second in a series of updates to this addon. Each update will update
 * Add header
   * [CommunityTechTree.cfg] v1.1.0.0
   * [ConnectedLivingSpace.cfg] v1.1.0.0
-  * [DrillScience.cfg] v1.1.0.0
+  * [DrillScience.cfg]
 
 ### Status
 
