@@ -10,14 +10,16 @@
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
 
-## Version 0.8.99.0-prerelease - `<Please Read the Instructions #1>` edition
+## Version 0.8.99.1-prerelease - `<#2 Please Read the Instructions>` edition
 
-* 04 Jul 2022
+* 17 Jul 2022
 * Released for Kerbal Space Program 1.12.x
 
 ### Summary
 
 ### Changes
+
+This is the second in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
 
 ### Localization
 
@@ -35,6 +37,13 @@
 * updates #33 - Part Localization
 * updates #16 - English <us-en.cfg>
 * updates #15 - Localization - Master
+
+### Compatibility
+
+* Add header
+  * [CommunityTechTree.cfg] v1.1.0.0
+  * [ConnectedLivingSpace.cfg] v1.1.0.0
+  * [DrillScience.cfg] v1.1.0.0
 
 ### Status
 
