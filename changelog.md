@@ -74,7 +74,7 @@ This is the second in a series of updates to this addon. Each update will update
   * [EL-Launchpad.cfg] --> [ExtraplanetaryLaunchpads.cfg.cfg] v1.1.0.0
 
 
-strait --> straight
+Strait --> straight
 ### Status
 
 * Issues
