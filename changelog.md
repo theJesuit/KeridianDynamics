@@ -26,11 +26,19 @@ This is the second in a series of updates to this addon. Each update will update
   * [KD3DPrinter-250.cfg]
   * [KD-SledgeHammer.cfg]
   * Cargo Tanks
-    * [KD-ST2001FS]
-    * [KD-ST2002FS]
-    * [KD-ST2501FS]
-    * [KD-ST2502FS]
-    * [KD-ST2253FS]
+    * [KD-ST2001FS.cfg] v1.1.0.0
+    * [KD-ST2002FS.cfg] v1.1.0.0
+    * [KD-ST2501FS.cfg] v1.1.0.0
+    * [KD-ST2502FS.cfg] v1.1.0.0
+    * [KD-ST2503FS.cfg] v1.1.0.0
+    * [KD-ST3751FS.cfg] v1.1.0.0
+    * [KD-ST3752FS.cfg] v1.1.0.0
+    * [KD-ST3753FS.cfg] v1.1.0.0
+    * [KD-ST3001FS.cfg] v1.1.0.0
+    * [KD-ST3002FS.cfg] v1.1.0.0
+    * [KD-ST3251FS.cfg] v1.1.0.0
+    * [KD-ST3252FS.cfg] v1.1.0.0
+
 
 ### Localization
 
