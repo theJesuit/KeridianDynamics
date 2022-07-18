@@ -238,7 +238,7 @@ This is the first in a series of updates to this addon. Each update will update 
 
 ---
 
-## Version 0.8.9.1 - `<Vacuuming the Carpets>`
+## Version 0.8.9.1-prerelease - `<Vacuuming the Carpets>`
 
 * initial update to 1.7.3
 * updated KIS (thank you to Justin @Khalendros)
