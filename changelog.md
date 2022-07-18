@@ -50,6 +50,9 @@ This is the second in a series of updates to this addon. Each update will update
   * [CommunityTechTree.cfg] v1.1.0.0
   * [ConnectedLivingSpace.cfg] v1.1.0.0
   * [DrillScience.cfg]
+  * [EL-Launchpad.cfg]
+* Rename
+  * [EL-Launchpad.cfg] --> [ExtraplanetaryLaunchpads.cfg.cfg] v1.1.0.0
 
 ### Status
 
