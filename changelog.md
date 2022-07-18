@@ -20,6 +20,7 @@
 * All Cargo Tanks are now finished with the initial pass.
 * RecycleSite had a pass.
 * All thumbs should now be available.
+* Can now search for 'kdva' in the editor search bar to find all Keridian Dynamics parts.
 
 ### Changes
 
@@ -56,12 +57,10 @@ Part of the complexity is the advanced design of this addon. The addon is design
 
 ### Localization
 
-* Add
+* Add Simplified Chinese (简体中文)
   * <zh-cn.cfg> v1.0.0.1
-  * Simplified Chinese
   * 太感谢了 (thank you) to [@ShadowSTAR616](https://github.com/ShadowSTARS616)
 * Many minor updates to [en-us.cfg] v1.1.1.0
-  * including renaming from us-en.cfg to en-us.cfg
   * simplified the localization string names
   * scraped KSP dictionary for settings
 * [DrillScience.cfg] v1.1.1.0
@@ -69,16 +68,14 @@ Part of the complexity is the advanced design of this addon. The addon is design
     * [#KDVA-drill-name] = Dig Ore sample
     * [#KDVA-drill-coll] = Collect Ore sample
     * [#KDVA-drill-rset] = Reset Drill
-* [KDChemicalReactor]
-  * add "2.5m" to title
-* [KD3DPrinter-250.cfg]
-  * add "2.5m" add "2.5m" to title
-* updates #33 - Part Localization
-* updates #16 - English <us-en.cfg>
-* updates #15 - Localization - Master
-
+* Spelling
+  * Strait --> straight
 * tags
   * add 'kdva' to all tags
+* updates #15 - Localization - Master
+* closes #16 - English <us-en.cfg>
+* closes #24 - Simplified Chinese (简体中文) <zh-cn.cfg>
+* closes #33 - Part Localization
 
 ### Compatibility
 
@@ -90,12 +87,13 @@ Part of the complexity is the advanced design of this addon. The addon is design
 * Rename
   * [EL-Launchpad.cfg] --> [ExtraplanetaryLaunchpads.cfg.cfg] v1.1.0.0
 
-
-Strait --> straight
 ### Status
 
 * Issues
-
+  * closes #43 - 0.8.99.1 Update Social Media
+  * closes #42 - 0.8.99.1 Update Documentation
+  * closes #41 - 0.8.99.1 Verify Legal Mumbo Jumbo
+  * closes #40 - Keridian Dynamics (KDVA) 0.8.99.1-prerelease `<#2 Please Read the Instructions>`
 
 ---
 
