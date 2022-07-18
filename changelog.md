@@ -17,13 +17,19 @@
 
 ### Summary
 
+* All Cargo Tanks are now finished with the initial pass.
+* RecycleSite had a pass.
+* All thumbs should now be available.
+
 ### Changes
 
 This is the second in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
 
+Part of the complexity is the advanced design of this addon. The addon is designed to be as modular as possible, so that it can be used in a variety of ways.
+
 * Parts Updated in this Pass:
   * [KD-RecycleSite.cfg] v1.1.0.0
-  * Cargo Tanks
+  * Cargo Tanks (all of them)
     * [KD-ST2001FS.cfg] v1.1.0.0
     * [KD-ST2002FS.cfg] v1.1.0.0
     * [KD-ST2501FS.cfg] v1.1.0.0
@@ -47,7 +53,6 @@ This is the second in a series of updates to this addon. Each update will update
     * [KD-T3251FS.cfg] v1.1.0.0
     * [KD-T3751FS.cfg] v1.1.0.0
     * [KD-T3752FS.cfg] v1.1.0.0
-
 
 ### Localization
 
