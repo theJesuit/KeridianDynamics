@@ -21,6 +21,17 @@
 
 This is the second in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
 
+* Parts Updated in this Pass:
+  * [KDChemicalReactor]
+  * [KD3DPrinter-250.cfg]
+  * [KD-SledgeHammer.cfg]
+  * Cargo Tanks
+    * [KD-ST2001FS]
+    * [KD-ST2002FS]
+    * [KD-ST2501FS]
+    * [KD-ST2502FS]
+    * [KD-ST2253FS]
+
 ### Localization
 
 * Add
