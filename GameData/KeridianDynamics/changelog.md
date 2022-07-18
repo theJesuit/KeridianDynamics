@@ -17,13 +17,20 @@
 
 ### Summary
 
+* All Cargo Tanks are now finished with the initial pass.
+* RecycleSite had a pass.
+* All thumbs should now be available.
+* Can now search for 'kdva' in the editor search bar to find all Keridian Dynamics parts.
+
 ### Changes
 
 This is the second in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
 
+Part of the complexity is the advanced design of this addon. The addon is designed to be as modular as possible, so that it can be used in a variety of ways.
+
 * Parts Updated in this Pass:
   * [KD-RecycleSite.cfg] v1.1.0.0
-  * Cargo Tanks
+  * Cargo Tanks (all of them)
     * [KD-ST2001FS.cfg] v1.1.0.0
     * [KD-ST2002FS.cfg] v1.1.0.0
     * [KD-ST2501FS.cfg] v1.1.0.0
@@ -48,15 +55,12 @@ This is the second in a series of updates to this addon. Each update will update
     * [KD-T3751FS.cfg] v1.1.0.0
     * [KD-T3752FS.cfg] v1.1.0.0
 
-
 ### Localization
 
-* Add
+* Add Simplified Chinese (简体中文)
   * <zh-cn.cfg> v1.0.0.1
-  * Simplified Chinese
   * 太感谢了 (thank you) to [@ShadowSTAR616](https://github.com/ShadowSTARS616)
 * Many minor updates to [en-us.cfg] v1.1.1.0
-  * including renaming from us-en.cfg to en-us.cfg
   * simplified the localization string names
   * scraped KSP dictionary for settings
 * [DrillScience.cfg] v1.1.1.0
@@ -64,16 +68,14 @@ This is the second in a series of updates to this addon. Each update will update
     * [#KDVA-drill-name] = Dig Ore sample
     * [#KDVA-drill-coll] = Collect Ore sample
     * [#KDVA-drill-rset] = Reset Drill
-* [KDChemicalReactor]
-  * add "2.5m" to title
-* [KD3DPrinter-250.cfg]
-  * add "2.5m" add "2.5m" to title
-* updates #33 - Part Localization
-* updates #16 - English <us-en.cfg>
-* updates #15 - Localization - Master
-
+* Spelling
+  * Strait --> straight
 * tags
   * add 'kdva' to all tags
+* updates #15 - Localization - Master
+* closes #16 - English <us-en.cfg>
+* closes #24 - Simplified Chinese (简体中文) <zh-cn.cfg>
+* closes #33 - Part Localization
 
 ### Compatibility
 
@@ -85,12 +87,13 @@ This is the second in a series of updates to this addon. Each update will update
 * Rename
   * [EL-Launchpad.cfg] --> [ExtraplanetaryLaunchpads.cfg.cfg] v1.1.0.0
 
-
-Strait --> straight
 ### Status
 
 * Issues
-
+  * closes #43 - 0.8.99.1 Update Social Media
+  * closes #42 - 0.8.99.1 Update Documentation
+  * closes #41 - 0.8.99.1 Verify Legal Mumbo Jumbo
+  * closes #40 - Keridian Dynamics (KDVA) 0.8.99.1-prerelease `<#2 Please Read the Instructions>`
 
 ---
 
