@@ -22,9 +22,7 @@
 This is the second in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
 
 * Parts Updated in this Pass:
-  * [KDChemicalReactor]
-  * [KD3DPrinter-250.cfg]
-  * [KD-SledgeHammer.cfg]
+  * [KD-RecycleSite.cfg] v1.1.0.0
   * Cargo Tanks
     * [KD-ST2001FS.cfg] v1.1.0.0
     * [KD-ST2002FS.cfg] v1.1.0.0
@@ -38,7 +36,6 @@ This is the second in a series of updates to this addon. Each update will update
     * [KD-ST3002FS.cfg] v1.1.0.0
     * [KD-ST3251FS.cfg] v1.1.0.0
     * [KD-ST3252FS.cfg] v1.1.0.0
-
     * [KD-T3753FS.cfg] v1.1.0.0
     * [KD-T1251FS.cfg] v1.1.0.0
     * [KD-T1252FS.cfg] v1.1.0.0
