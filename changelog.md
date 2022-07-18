@@ -72,6 +72,9 @@ This is the second in a series of updates to this addon. Each update will update
 * updates #16 - English <us-en.cfg>
 * updates #15 - Localization - Master
 
+* tags
+  * add 'kdva' to all tags
+
 ### Compatibility
 
 * Add header
