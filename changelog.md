@@ -39,6 +39,18 @@ This is the second in a series of updates to this addon. Each update will update
     * [KD-ST3251FS.cfg] v1.1.0.0
     * [KD-ST3252FS.cfg] v1.1.0.0
 
+    * [KD-T3753FS.cfg] v1.1.0.0
+    * [KD-T1251FS.cfg] v1.1.0.0
+    * [KD-T1252FS.cfg] v1.1.0.0
+    * [KD-T1253FS.cfg] v1.1.0.0
+    * [KD-T2001FS.cfg] v1.1.0.0
+    * [KD-T2501FS.cfg] v1.1.0.0
+    * [KD-T2502FS.cfg] v1.1.0.0
+    * [KD-T2503FS.cfg] v1.1.0.0
+    * [KD-T3251FS.cfg] v1.1.0.0
+    * [KD-T3751FS.cfg] v1.1.0.0
+    * [KD-T3752FS.cfg] v1.1.0.0
+
 
 ### Localization
 
