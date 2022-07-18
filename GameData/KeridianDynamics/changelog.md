@@ -10,6 +10,93 @@
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
 
+## Version 0.8.99.1-prerelease - `<#2 Please Read the Instructions>` edition
+
+* 17 Jul 2022
+* Released for Kerbal Space Program 1.12.x
+
+### Summary
+
+* All Cargo Tanks are now finished with the initial pass.
+* RecycleSite had a pass.
+* All thumbs should now be available.
+* Can now search for 'kdva' in the editor search bar to find all Keridian Dynamics parts.
+
+### Changes
+
+This is the second in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+
+Part of the complexity is the advanced design of this addon. The addon is designed to be as modular as possible, so that it can be used in a variety of ways.
+
+* Parts Updated in this Pass:
+  * [KD-RecycleSite.cfg] v1.1.0.0
+  * Cargo Tanks (all of them)
+    * [KD-ST2001FS.cfg] v1.1.0.0
+    * [KD-ST2002FS.cfg] v1.1.0.0
+    * [KD-ST2501FS.cfg] v1.1.0.0
+    * [KD-ST2502FS.cfg] v1.1.0.0
+    * [KD-ST2503FS.cfg] v1.1.0.0
+    * [KD-ST3751FS.cfg] v1.1.0.0
+    * [KD-ST3752FS.cfg] v1.1.0.0
+    * [KD-ST3753FS.cfg] v1.1.0.0
+    * [KD-ST3001FS.cfg] v1.1.0.0
+    * [KD-ST3002FS.cfg] v1.1.0.0
+    * [KD-ST3251FS.cfg] v1.1.0.0
+    * [KD-ST3252FS.cfg] v1.1.0.0
+    * [KD-T3753FS.cfg] v1.1.0.0
+    * [KD-T1251FS.cfg] v1.1.0.0
+    * [KD-T1252FS.cfg] v1.1.0.0
+    * [KD-T1253FS.cfg] v1.1.0.0
+    * [KD-T2001FS.cfg] v1.1.0.0
+    * [KD-T2501FS.cfg] v1.1.0.0
+    * [KD-T2502FS.cfg] v1.1.0.0
+    * [KD-T2503FS.cfg] v1.1.0.0
+    * [KD-T3251FS.cfg] v1.1.0.0
+    * [KD-T3751FS.cfg] v1.1.0.0
+    * [KD-T3752FS.cfg] v1.1.0.0
+
+### Localization
+
+* Add Simplified Chinese (简体中文)
+  * <zh-cn.cfg> v1.0.0.1
+  * 太感谢了 (thank you) to [@ShadowSTAR616](https://github.com/ShadowSTARS616)
+* Many minor updates to [en-us.cfg] v1.1.1.0
+  * simplified the localization string names
+  * scraped KSP dictionary for settings
+* [DrillScience.cfg] v1.1.1.0
+  * Add strings for drill science
+    * [#KDVA-drill-name] = Dig Ore sample
+    * [#KDVA-drill-coll] = Collect Ore sample
+    * [#KDVA-drill-rset] = Reset Drill
+* Spelling
+  * Strait --> straight
+* tags
+  * add 'kdva' to all tags
+* updates #15 - Localization - Master
+* closes #16 - English <us-en.cfg>
+* closes #24 - Simplified Chinese (简体中文) <zh-cn.cfg>
+* closes #33 - Part Localization
+
+### Compatibility
+
+* Add header
+  * [CommunityTechTree.cfg] v1.1.0.0
+  * [ConnectedLivingSpace.cfg] v1.1.0.0
+  * [DrillScience.cfg]
+  * [EL-Launchpad.cfg]
+* Rename
+  * [EL-Launchpad.cfg] --> [ExtraplanetaryLaunchpads.cfg.cfg] v1.1.0.0
+
+### Status
+
+* Issues
+  * closes #43 - 0.8.99.1 Update Social Media
+  * closes #42 - 0.8.99.1 Update Documentation
+  * closes #41 - 0.8.99.1 Verify Legal Mumbo Jumbo
+  * closes #40 - Keridian Dynamics (KDVA) 0.8.99.1-prerelease `<#2 Please Read the Instructions>`
+
+---
+
 ## Version 0.8.99.0-prerelease - `<Please Read the Instructions #1>` edition
 
 * 04 Jul 2022
@@ -139,15 +226,15 @@ This is the first in a series of updates to this addon. Each update will update 
 * merged in patches
 * automated deploy/release process
 
-// much lint was shaved
-// misplaces spare right brace in Changelog.cfg
-// Changelog.cfg:32 :: unexpected }
-// KD-ExtensionPad.cfg:224 :: unexpected }
-// KD-Keronica.cfg:164 :: unexpected }
-// KD-LaunchPad.cfg:132 :: unexpected }
-// KD-LaunchPadSide.cfg:138 :: unexpected }
-// KD-LaunchPadTop.cfg:138 :: unexpected }
-// KD-Pad.cfg:84 :: unexpected }
+* much lint was shaved
+* misplaces spare right brace in Changelog.cfg
+* Changelog.cfg:32 :: unexpected
+* KD-ExtensionPad.cfg:224 :: unexpected
+* KD-Keronica.cfg:164 :: unexpected
+* KD-LaunchPad.cfg:132 :: unexpected
+* KD-LaunchPadSide.cfg:138 :: unexpected
+* KD-LaunchPadTop.cfg:138 :: unexpected
+* KD-Pad.cfg:84 :: unexpected
 
 ---
 
