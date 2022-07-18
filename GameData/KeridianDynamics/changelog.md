@@ -10,6 +10,90 @@
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
 
+## Version 0.8.99.1-prerelease - `<#2 Please Read the Instructions>` edition
+
+* 17 Jul 2022
+* Released for Kerbal Space Program 1.12.x
+
+### Summary
+
+### Changes
+
+This is the second in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+
+* Parts Updated in this Pass:
+  * [KD-RecycleSite.cfg] v1.1.0.0
+  * Cargo Tanks
+    * [KD-ST2001FS.cfg] v1.1.0.0
+    * [KD-ST2002FS.cfg] v1.1.0.0
+    * [KD-ST2501FS.cfg] v1.1.0.0
+    * [KD-ST2502FS.cfg] v1.1.0.0
+    * [KD-ST2503FS.cfg] v1.1.0.0
+    * [KD-ST3751FS.cfg] v1.1.0.0
+    * [KD-ST3752FS.cfg] v1.1.0.0
+    * [KD-ST3753FS.cfg] v1.1.0.0
+    * [KD-ST3001FS.cfg] v1.1.0.0
+    * [KD-ST3002FS.cfg] v1.1.0.0
+    * [KD-ST3251FS.cfg] v1.1.0.0
+    * [KD-ST3252FS.cfg] v1.1.0.0
+    * [KD-T3753FS.cfg] v1.1.0.0
+    * [KD-T1251FS.cfg] v1.1.0.0
+    * [KD-T1252FS.cfg] v1.1.0.0
+    * [KD-T1253FS.cfg] v1.1.0.0
+    * [KD-T2001FS.cfg] v1.1.0.0
+    * [KD-T2501FS.cfg] v1.1.0.0
+    * [KD-T2502FS.cfg] v1.1.0.0
+    * [KD-T2503FS.cfg] v1.1.0.0
+    * [KD-T3251FS.cfg] v1.1.0.0
+    * [KD-T3751FS.cfg] v1.1.0.0
+    * [KD-T3752FS.cfg] v1.1.0.0
+
+
+### Localization
+
+* Add
+  * <zh-cn.cfg> v1.0.0.1
+  * Simplified Chinese
+  * 太感谢了 (thank you) to [@ShadowSTAR616](https://github.com/ShadowSTARS616)
+* Many minor updates to [en-us.cfg] v1.1.1.0
+  * including renaming from us-en.cfg to en-us.cfg
+  * simplified the localization string names
+  * scraped KSP dictionary for settings
+* [DrillScience.cfg] v1.1.1.0
+  * Add strings for drill science
+    * [#KDVA-drill-name] = Dig Ore sample
+    * [#KDVA-drill-coll] = Collect Ore sample
+    * [#KDVA-drill-rset] = Reset Drill
+* [KDChemicalReactor]
+  * add "2.5m" to title
+* [KD3DPrinter-250.cfg]
+  * add "2.5m" add "2.5m" to title
+* updates #33 - Part Localization
+* updates #16 - English <us-en.cfg>
+* updates #15 - Localization - Master
+
+* tags
+  * add 'kdva' to all tags
+
+### Compatibility
+
+* Add header
+  * [CommunityTechTree.cfg] v1.1.0.0
+  * [ConnectedLivingSpace.cfg] v1.1.0.0
+  * [DrillScience.cfg]
+  * [EL-Launchpad.cfg]
+* Rename
+  * [EL-Launchpad.cfg] --> [ExtraplanetaryLaunchpads.cfg.cfg] v1.1.0.0
+
+
+Strait --> straight
+### Status
+
+* Issues
+
+
+---
+
 ## Version 0.8.99.0-prerelease - `<Please Read the Instructions #1>` edition
 
 * 04 Jul 2022
@@ -139,15 +223,15 @@ This is the first in a series of updates to this addon. Each update will update 
 * merged in patches
 * automated deploy/release process
 
-// much lint was shaved
-// misplaces spare right brace in Changelog.cfg
-// Changelog.cfg:32 :: unexpected }
-// KD-ExtensionPad.cfg:224 :: unexpected }
-// KD-Keronica.cfg:164 :: unexpected }
-// KD-LaunchPad.cfg:132 :: unexpected }
-// KD-LaunchPadSide.cfg:138 :: unexpected }
-// KD-LaunchPadTop.cfg:138 :: unexpected }
-// KD-Pad.cfg:84 :: unexpected }
+* much lint was shaved
+* misplaces spare right brace in Changelog.cfg
+* Changelog.cfg:32 :: unexpected
+* KD-ExtensionPad.cfg:224 :: unexpected
+* KD-Keronica.cfg:164 :: unexpected
+* KD-LaunchPad.cfg:132 :: unexpected
+* KD-LaunchPadSide.cfg:138 :: unexpected
+* KD-LaunchPadTop.cfg:138 :: unexpected
+* KD-Pad.cfg:84 :: unexpected
 
 ---
 
