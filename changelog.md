@@ -10,6 +10,12 @@
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
 
+## Version 0.8.99.2-prerelease - `<#3 Please Read the Instructions>` edition
+
+[KD-RecyclerSmall]
+
+---
+
 ## Version 0.8.99.1-prerelease - `<#2 Please Read the Instructions>` edition
 
 * 17 Jul 2022
