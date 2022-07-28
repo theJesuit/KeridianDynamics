@@ -10,6 +10,76 @@
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
 
+## Version 0.8.99.2-prerelease - `<#3 Please Read the Instructions>` edition
+
+* 27 Jul 2022
+* Released for Kerbal Space Program 1.12.x
+
+### Summary
+
+* Tawianese
+* Updated: RecyclerSmall and Recycler
+* Mostly internal updates to localization.
+* RecycleSite had a pass.
+* Can now search for `kd` or `kdva` in the editor search bar to find all Keridian Dynamics parts.
+
+### Changes
+
+This is the second in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+
+Part of the complexity is the advanced design of this addon. The addon is designed to be as modular as possible, so that it can be used in a variety of ways.
+
+### Parts 0.8.99.2
+
+* Update
+  * [KD-RecyclerSmall] v1.1.0.0
+  * [KD-Recycler] v1.1.0.0
+* Fix
+  * [KD-RecyclerSmall]
+  * remove duplicate localization (one localized, one not)
+  * (thank you) to [@ShadowSTAR616](https://github.com/ShadowSTARS616)
+  * closes #47 - [Bug 🐞]: KD-RecyclerSmall part not fully localized
+
+### Localization
+
+* Add Taiwanese (国语)
+  * <zh-tw.cfg> v1.1.2.0
+  * 太感谢了 (thank you) to [@ShadowSTAR616](https://github.com/ShadowSTARS616)
+* Update
+  * <en-us.cfg> v1.1.2.0
+  * <zh-cn.cfg> v1.1.2.0
+    * simplified
+    * scraped KSP dictionary for settings
+* Spelling
+  * Strait --> straight
+* Add new strings to the localization files
+  * used for editior search (tags)
+  * #KDVA-tags = KD KDVA
+* closes #16 - English <us-en.cfg>
+* closes #24 - Simplified Chinese (简体中文) <zh-cn.cfg>
+* closes #31 - Taiwanese (国语) <zh-tw.cfg>
+* updates #15 - Localization - Master
+* updates #33 - Part Localization
+
+### Compatibility
+
+* Add
+  * [KeridianDynamics.cfg] v1.0.0.0
+  * adds cck-sc, cck-el, kd, kdva to tags
+* Rename
+  * Remove extra .cfg.cfg
+  * <ExtraplanetaryLaunchpads.cfg.cfg> --> <ExtraplanetaryLaunchpads.cfg>
+  
+### Status
+
+* Issues
+  * closes #49 - Keridian Dynamics (KDVA) 0.8.99.2-prerelease `<#3 Please Read the Instructions>`
+  * closes #50 - 0.8.99.2 Verify Legal Mumbo Jumbo
+  * closes #51 - 0.8.99.2 Update Documentation
+  * closes #52 - 0.8.99.2 Update Social Media
+
+---
+
 ## Version 0.8.99.1-prerelease - `<#2 Please Read the Instructions>` edition
 
 * 17 Jul 2022
@@ -238,7 +308,7 @@ This is the first in a series of updates to this addon. Each update will update 
 
 ---
 
-## Version 0.8.9.1 - `<Vacuuming the Carpets>`
+## Version 0.8.9.1-prerelease - `<Vacuuming the Carpets>`
 
 * initial update to 1.7.3
 * updated KIS (thank you to Justin @Khalendros)

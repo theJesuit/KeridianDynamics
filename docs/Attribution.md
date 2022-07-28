@@ -68,6 +68,7 @@ Dr Farnsworth for continued feedback, testing and a lot of very helpfull suggest
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:150%;" /> English</li>
   <li><small>Additions and corrections welcome!</small></li>
   <img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/CH.png " alt="简体中文" style="zoom:150%;" /> Simplified Chinese (简体中文) - 太感谢了 (thank you) to <a href="https://github.com/ShadowSTARS616">ShadowSTAR616</a>
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TW.png " alt="国语" style="zoom:150%;" /> Taiwanese (国语) - 太感谢了 (thank you) to <a href="https://github.com/ShadowSTARS616">ShadowSTAR616</a>
 </ul>
 
 ### Art Asset(s)
