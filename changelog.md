@@ -17,7 +17,7 @@
 
 ### Summary
 
-* Tawianese
+* Taiwanese (国语) 太感谢了 (thank you) to [@ShadowSTAR616](https://github.com/ShadowSTARS616)
 * Updated: RecyclerSmall and Recycler
 * Mostly internal updates to localization.
 * RecycleSite had a pass.
