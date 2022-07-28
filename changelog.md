@@ -12,9 +12,10 @@
 
 ## Version 0.8.99.2-prerelease - `<#3 Please Read the Instructions>` edition
 
-[KD-RecyclerSmall]
-[KD-Recycler]
-
+[KD-RecyclerSmall] v1.1.0.0
+[KD-Recycler] v1.1.0.0
+[KeridianDynamics.cfg] v1.0.0.0
+xtraplanetaryLaunchpads.cfg.cfg
 ---
 
 ## Version 0.8.99.1-prerelease - `<#2 Please Read the Instructions>` edition
