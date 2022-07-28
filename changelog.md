@@ -16,6 +16,8 @@
 [KD-Recycler] v1.1.0.0
 [KeridianDynamics.cfg] v1.0.0.0
 xtraplanetaryLaunchpads.cfg.cfg
+		// Tags
+		#KDVA-tags = KD KDVA
 ---
 
 ## Version 0.8.99.1-prerelease - `<#2 Please Read the Instructions>` edition
