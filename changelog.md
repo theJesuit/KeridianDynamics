@@ -13,6 +13,7 @@
 ## Version 0.8.99.2-prerelease - `<#3 Please Read the Instructions>` edition
 
 [KD-RecyclerSmall]
+[KD-Recycler]
 
 ---
 
