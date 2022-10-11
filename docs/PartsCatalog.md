@@ -13,7 +13,7 @@ updated: 04 Jul 2022 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
 
-# Keridian Dynamics (KDVA)
+# Keridian Dynamics (KDVA) [WIP]
 
 [Home](./index.md)
 
@@ -28,11 +28,9 @@ This add-on adds fourty-nine (49) construction and resource parts
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/KeridianDynamics/master/GameData/KeridianDynamics/Parts/%40thumbs/KD-Keronica_icon.png" alt="Keronica" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/KeridianDynamics/master/GameData/KeridianDynamics/Parts/%40thumbs/KD-T3251FS_icon.png" alt="T3251FS" width="25%" height="25%" />
 
-* MicroPad
-* OrbitalDock
 
 ---
 
-[top](#Parts-Catalog)
+[top](#parts-catalog)
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
