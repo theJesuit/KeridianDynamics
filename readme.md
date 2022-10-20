@@ -126,7 +126,9 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [OSE Workshop][ose]
 * [PatchManager][pm] - *allows patches to be easily toggleable*
 * [ReStock][rstk]
+* [SIMPLEX Colonies][sxc]
 * [TweakScale][twk]
+* [TETRIX tech tree][ttt]
 
 ### Replaces
 
@@ -201,7 +203,7 @@ A very big THANK YOU to the following mod developers and specially the plugin-wr
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/202945-*/ "KeridianDynamics Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/KeridianDynamics/wiki/Known-Issues "GitHub Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/KeridianDynamics/blob/master/LICENSE "Github License"
-[MOD:markt]: https://zer0kerbal.github.io/MOD-NAME/Marketing "Marketing Slicks"
+[MOD:markt]: https://zer0kerbal.github.io/MOD-name/Marketing "Marketing Slicks"
 [MOD:notic]: https://zer0kerbal.github.io/KeridianDynamics/Notices "Notices"
 [MOD:parts]: https://zer0kerbal.github.io/KeridianDynamics/PartsCatalog "Parts Catalog"
 [MOD:pages]: https://zer0kerbal.github.io/KeridianDynamics/ "GitHub Pages"
@@ -251,6 +253,9 @@ A very big THANK YOU to the following mod developers and specially the plugin-wr
 [SCON]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "SimpleConstructon!"
 [SLOG]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics!"
 [NSSC]: https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*/ "Not So SimpleConstructon!"
+
+[ttt]: https://forum.kerbalspaceprogram.com/index.php?/topic/174731-*/ "TETRIX tech tree"
+[sxc]: https://forum.kerbalspaceprogram.com/index.php?/topic/205078-*/ "SIMPLEX Colonies"
 
 [atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
 [b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
@@ -316,7 +321,7 @@ A very big THANK YOU to the following mod developers and specially the plugin-wr
 
 #### Connect with me
 
-Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/MOD-NAME/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/MOD-name/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
 [<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]
 
