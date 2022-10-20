@@ -43,6 +43,9 @@ Part of the complexity is the advanced design of this addon. The addon is design
   * <zh-cn.cfg> v1.1.3.0
   * <zh-tw.cfg> v1.1.3.0
 * updates #15 - Localization - Master
+* updates #16 - English <us-en.cfg>
+* updates #24 - Simplified Chinese (简体中文) <zh-cn.cfg>
+* updates #31 - Taiwanese (国语) <zh-tw.cfg>
 
 ### Config 0.8.99.3
 
