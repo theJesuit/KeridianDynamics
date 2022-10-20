@@ -18,6 +18,7 @@
 ### Summary 0.8.99.3
 
 * More parts updated
+* Parts Catalog now has images
 * Can now search for `kd` or `kdva` in the editor search bar to find all Keridian Dynamics parts.
 
 ### Changes
@@ -34,6 +35,14 @@ Part of the complexity is the advanced design of this addon. The addon is design
   * [KD-FabricationContainer.cfg] v1.1.0.0
   * [KD-MobileVAB.cfg] v1.1.0.0
   * [KD-OrbitalHangar.cfg] v1.1.0.0
+
+### Localization 0.8.99.3
+
+* Lint
+  * <en-us.cfg> v1.1.3.0
+  * <zh-cn.cfg> v1.1.3.0
+  * <zh-tw.cfg> v1.1.3.0
+* updates #15 - Localization - Master
 
 ### Config 0.8.99.3
 
