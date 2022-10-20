@@ -24,6 +24,67 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
 
+## Version 0.8.99.3-prerelease - `<#4 Please Read the Instructions>` edition
+
+* 19 Oct 2022
+* Released for Kerbal Space Program 1.12.3
+
+### Summary 0.8.99.3
+
+* More parts updated
+* Parts Catalog now has images
+* Can now search for `kd` or `kdva` in the editor search bar to find all Keridian Dynamics parts.
+
+### Changes
+
+This is the next in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+
+Part of the complexity is the advanced design of this addon. The addon is designed to be as modular as possible, so that it can be used in a variety of ways.
+
+### Parts 0.8.99.3
+
+* Update
+  * [KD-PAM.cfg] v1.1.0.0
+  * [KD-PAMSmall.cfg] v1.1.0.0
+  * [KD-FabricationContainer.cfg] v1.1.0.0
+  * [KD-MobileVAB.cfg] v1.1.0.0
+  * [KD-OrbitalHangar.cfg] v1.1.0.0
+
+### Localization 0.8.99.3
+
+* Lint
+  * <en-us.cfg> v1.1.3.0
+  * <zh-cn.cfg> v1.1.3.0
+  * <zh-tw.cfg> v1.1.3.0
+* updates #15 - Localization - Master
+* updates #16 - English <us-en.cfg>
+* updates #24 - Simplified Chinese (简体中文) <zh-cn.cfg>
+* updates #31 - Taiwanese (国语) <zh-tw.cfg>
+
+### Config 0.8.99.3
+
+* Update
+  * <KeridianDynamics.cfg> v1.0.1.0
+  * :NEEDS replace 'DaMichel/Fuselage' with 'KeridianDynamics'
+
+### Compatibility 0.8.99.3
+
+* Add
+  * <TETRIXTechTree.cfg> v1.0.0.0
+    * placeholder (for now)
+* updates #60 - [compatibility] TETRIX  tech tree
+* updates #59 - SimplexColonies
+  
+### Status 0.8.99.3
+
+* Issues
+  * closes #55 - Keridian Dynamics (KDVA) 0.8.99.3-prerelease `<#4 Please Read the Instructions>`
+  * closes #56 - 0.8.99.3 Verify Legal Mumbo Jumbo
+  * closes #57 - 0.8.99.3 Update Documentation
+  * closes #58 - 0.8.99.3 Update Social Media
+
+---
+
 ## Version 0.8.99.2-prerelease - `<#3 Please Read the Instructions>` edition
 
 * 27 Jul 2022
