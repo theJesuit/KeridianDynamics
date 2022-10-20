@@ -17,8 +17,7 @@
 
 ### Summary 0.8.99.3
 
-* Updated: RecyclerSmall and Recycler
-* Mostly internal updates to localization.
+* More parts updated
 * Can now search for `kd` or `kdva` in the editor search bar to find all Keridian Dynamics parts.
 
 ### Changes
@@ -47,10 +46,16 @@ Part of the complexity is the advanced design of this addon. The addon is design
 * Add
   * <TETRIXTechTree.cfg> v1.0.0.0
     * placeholder (for now)
+* updates #60 - [compatibility] TETRIX  tech tree
+* updates #59 - SimplexColonies
   
 ### Status 0.8.99.3
 
 * Issues
+  * closes #55 - Keridian Dynamics (KDVA) 0.8.99.3-prerelease `<#4 Please Read the Instructions>`
+  * closes #56 - 0.8.99.3 Verify Legal Mumbo Jumbo
+  * closes #57 - 0.8.99.3 Update Documentation
+  * closes #58 - 0.8.99.3 Update Social Media
 
 ---
 
