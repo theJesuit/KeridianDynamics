@@ -126,7 +126,9 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [OSE Workshop][ose]
 * [PatchManager][pm] - *allows patches to be easily toggleable*
 * [ReStock][rstk]
+* [SIMPLEX Colonies][sxc]
 * [TweakScale][twk]
+* [TETRIX tech tree][ttt]
 
 ### Replaces
 
@@ -251,6 +253,9 @@ A very big THANK YOU to the following mod developers and specially the plugin-wr
 [SCON]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "SimpleConstructon!"
 [SLOG]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics!"
 [NSSC]: https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*/ "Not So SimpleConstructon!"
+
+[ttt]: https://forum.kerbalspaceprogram.com/index.php?/topic/174731-*/ "TETRIX tech tree"
+[sxc]: https://forum.kerbalspaceprogram.com/index.php?/topic/205078-*/ "SIMPLEX Colonies"
 
 [atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
 [b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
