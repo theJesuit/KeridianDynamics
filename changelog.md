@@ -12,17 +12,39 @@
 
 ## Version 0.8.99.4-prerelease - `<#5 Please Read the Instructions>` edition
 
-* Thank you to reddit user [u/Galxemo](https://www.reddit.com/u/Galxemo/)
-* passable tanks were playing hide and go seek with a texture; now in same folder
+### Summary 0.8.99.4
 
-KD-OrbitalHangar_IVALight
-KD-OrbitalHangar_IVALight_EMM
+* Found hiding textures for passable tanks
+* lots of linting and reorganizing
+* Parts Catalog now has images
+* Can now search for `kd` or `kdva` in the editor search bar to find all Keridian Dynamics parts.
 
-duplicated textures
+### Changes
+
+* Passable tanks missing texture
+  * Thank you to reddit user [u/Galxemo](https://www.reddit.com/u/Galxemo/)
+  * passable tanks were playing hide and go seek with a texture; now in same folder
+  * closes #66 - [Bug 🐞]: passable tanks missing texture
+* <en-us.cfg> v1.1.4.0
+  * eliminated many duplicated strings
+* KSP.log is reporting missing textures (28x each)
+  * <KD-OrbitalHangar_IVALight.dds>
+  * <KD-OrbitalHangar_IVALight_EMM.dds>
+  * updates #65 - [Bug 🐞]: Log Spam - textures not found
+* Eliminated duplicated textures
+  * saves ~5.32mb
   * <KD-FurnaceSmall_EMM.dds> 1.33mb
   * <KD-FurnaceSmall_NRM.dds> 1.33mb
   * <KD-FurnaceSmall.dds> 1.33mb
   * <KD-FurnaceSmall.mu> 1.33mb
+* Expermimental part added (but hidden)
+  * updates #59 - SimplexColonies
+
+### Status 0.8.99.4
+
+* Issues
+  * closes #63 - Keridian Dynamics (KDVA) 0.8.99.4-prerelease `<#5 Please Read the Instructions>` edition
+  * closes #64 - 0.8.99.4 Additional Tasks
 
 ---
 
