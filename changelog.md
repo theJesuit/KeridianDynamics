@@ -10,6 +10,22 @@
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
 
+## Version 0.8.99.4-prerelease - `<#5 Please Read the Instructions>` edition
+
+* Thank you to reddit user [u/Galxemo](https://www.reddit.com/u/Galxemo/)
+* passable tanks were playing hide and go seek with a texture; now in same folder
+
+KD-OrbitalHangar_IVALight
+KD-OrbitalHangar_IVALight_EMM
+
+duplicated textures
+  * <KD-FurnaceSmall_EMM.dds> 1.33mb
+  * <KD-FurnaceSmall_NRM.dds> 1.33mb
+  * <KD-FurnaceSmall.dds> 1.33mb
+  * <KD-FurnaceSmall.mu> 1.33mb
+
+---
+
 ## Version 0.8.99.3-prerelease - `<#4 Please Read the Instructions>` edition
 
 * 19 Oct 2022
