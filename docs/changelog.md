@@ -5,14 +5,12 @@ description: The Opening Credits, and the closing credits, plus the first of two
 # layout: bare
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- 
-hdr-changelog.md v1.0.0.0
+<!-- hdr-changelog.md v1.0.0.1
 Keridian Dynamics (KDVA)
 created: 13 May 2022
-updated:
-CC BY-ND 4.0 by zer0Kerbal
---># Changelog  
+updated: 05 Nov 2022
+CC BY-ND 4.0 by zer0Kerbal -->  
+# Changelog  
   
 | modName    | Keridian Dynamics (KDVA)                                          |
 | ---------- | ----------------------------------------------------------------- |
@@ -23,6 +21,44 @@ CC BY-ND 4.0 by zer0Kerbal
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/KeridianDynamics)     |
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
+
+## Version 0.8.99.4-prerelease - `<#5 Please Read the Instructions>` edition
+
+### Summary 0.8.99.4
+
+* Found hiding textures for passable tanks
+* lots of linting and reorganizing
+* Parts Catalog now has images
+* Can now search for `kd` or `kdva` in the editor search bar to find all Keridian Dynamics parts.
+
+### Changes
+
+* Passable tanks missing texture
+  * Thank you to reddit user [u/Galxemo](https://www.reddit.com/u/Galxemo/)
+  * passable tanks were playing hide and go seek with a texture; now in same folder
+  * closes #66 - [Bug 🐞]: passable tanks missing texture
+* <en-us.cfg> v1.1.4.0
+  * eliminated many duplicated strings
+* KSP.log is reporting missing textures (28x each)
+  * <KD-OrbitalHangar_IVALight.dds>
+  * <KD-OrbitalHangar_IVALight_EMM.dds>
+  * updates #65 - [Bug 🐞]: Log Spam - textures not found
+* Eliminated duplicated textures
+  * saves ~5.32mb
+  * <KD-FurnaceSmall_EMM.dds> 1.33mb
+  * <KD-FurnaceSmall_NRM.dds> 1.33mb
+  * <KD-FurnaceSmall.dds> 1.33mb
+  * <KD-FurnaceSmall.mu> 1.33mb
+* Experimental part added (but hidden)
+  * updates #59 - SimplexColonies
+
+### Status 0.8.99.4
+
+* Issues
+  * closes #63 - Keridian Dynamics (KDVA) 0.8.99.4-prerelease `<#5 Please Read the Instructions>` edition
+  * closes #64 - 0.8.99.4 Additional Tasks
+
+---
 
 ## Version 0.8.99.3-prerelease - `<#4 Please Read the Instructions>` edition
 
