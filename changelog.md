@@ -37,7 +37,7 @@
   * <KD-FurnaceSmall_NRM.dds> 1.33mb
   * <KD-FurnaceSmall.dds> 1.33mb
   * <KD-FurnaceSmall.mu> 1.33mb
-* Expermimental part added (but hidden)
+* Experimental part added (but hidden)
   * updates #59 - SimplexColonies
 
 ### Status 0.8.99.4
