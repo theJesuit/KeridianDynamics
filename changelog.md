@@ -10,6 +10,29 @@
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
 
+# Version 0.8.99.5-prerelease - `<#6 Please Read the Instructions>` edition
+
+* Released
+  * 12 Dec 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
+
+### Summary 0.8.99.5
+
+### Textures 0.8.99.5
+
+* convert from .png --> .dds
+* many new flags
+
+### Summary 0.8.99.5
+
+### Status 0.8.99.5
+
+* Issues
+
+
+---
+
 ## Version 0.8.99.4-prerelease - `<#5 Please Read the Instructions>` edition
 
 ### Summary 0.8.99.4
