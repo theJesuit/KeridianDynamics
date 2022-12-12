@@ -21,6 +21,8 @@ updated: 03 Jun 2022
 
 ## Attribution
 
+A very big THANK YOU to the following mod developers and specially the plugin-writers/maintainers (because that is witchcraft to me ;) ) for their hard work:
+
 ### Credits
 
 * taniwha and skykooler for [ExtraplanetaryLaunchpads](https://forum.kerbalspaceprogram.com/threads/59545).
