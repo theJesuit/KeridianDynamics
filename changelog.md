@@ -27,7 +27,7 @@
 ### Summary 0.8.99.5
 
  Agents.cfg v1.0.0.0
-
+kd-pad-extension.cfg v1.1.0.0
 
 ### Status 0.8.99.5
 
