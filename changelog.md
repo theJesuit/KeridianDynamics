@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
 
-# Version 0.8.99.5-prerelease - `<#6 Please Read the Instructions>` edition
+## Version 0.8.99.5-prerelease - `<#6 Please Read the Instructions>` edition
 
 * Released
   * 12 Dec 2022
@@ -19,20 +19,42 @@
 
 ### Summary 0.8.99.5
 
-### Textures 0.8.99.5
+* This is next in a series of updates with each (pre)release updating some of the fourty-nine (49) parts and numerous patches. This allows for updating in manageable way.
+* loads of behind the scenes changes
+* fixed texture not found log spam
+* corrected some part tags having a double `=` instead of `= //`
+* added
+  * agent
+  * many new flags
+* Updated parts
+  * kd-pad-extension
+  * kd-pad
+* Can search `kd`, `kdva` in editors
+* ghostparts.cfg has been updated and temporarily added to compensate for parts that were renamed
 
+### Changes 0.8.99.5
+
+* fixed texture not found log spam
+  * texture files where present, just not the correct encoding
+* corrected tags (had a double = instead of = //)
+* loads of behind the scenes changes
 * convert from .png --> .dds
-* many new flags
-
-### Summary 0.8.99.5
-
- Agents.cfg v1.0.0.0
-kd-pad-extension.cfg v1.1.0.0
+* Added
+  * <Agents.cfg> v1.0.0.0
+  * New Flags
+* Updated
+  * <kd-pad.cfg> v1.1.0.0
+  * <kd-pad-extension.cfg> v1.1.0.0
+  * <ConnectedLivingSpace.cfg> v1.2.0.0
+  * <en-us.cfg> v1.1.5.0
 
 ### Status 0.8.99.5
 
 * Issues
-
+  * closes #69 - Keridian Dynamics (KDVA) 0.8.99.5-prerelease `<#6 Please Read the Instructions>` edition
+  * closes #70 - 0.8.99.5 Additional Tasks
+  * closes #59 - SimplexColonies
+  * closes #65 - [Bug 🐞]: Log Spam - textures not found
 
 ---
 
