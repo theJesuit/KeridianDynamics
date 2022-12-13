@@ -2,7 +2,6 @@
 permalink: /Changelog.html
 title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
-# layout: bare
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- hdr-changelog.md v1.0.0.1
@@ -21,6 +20,54 @@ CC BY-ND 4.0 by zer0Kerbal -->
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/KeridianDynamics)     |
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
+
+## Version 0.8.99.5-prerelease - `<#6 Please Read the Instructions>` edition
+
+* Released
+  * 12 Dec 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
+
+### Summary 0.8.99.5
+
+* This is next in a series of updates with each (pre)release updating some of the fourty-nine (49) parts and numerous patches. This allows for updating in manageable way.
+* loads of behind the scenes changes
+* fixed texture not found log spam
+* corrected some part tags having a double `=` instead of `= //`
+* added
+  * agent
+  * many new flags
+* Updated parts
+  * kd-pad-extension
+  * kd-pad
+* Can search `kd`, `kdva` in editors
+* ghostparts.cfg has been updated and temporarily added for renamed parts
+
+### Changes 0.8.99.5
+
+* fixed texture not found log spam
+  * texture files where present, just not the correct encoding
+* corrected tags (had a double = instead of = //)
+* loads of behind the scenes changes
+* convert from .png --> .dds
+* Added
+  * <Agents.cfg> v1.0.0.0
+  * New Flags
+* Updated
+  * <kd-pad.cfg> v1.1.0.0
+  * <kd-pad-extension.cfg> v1.1.0.0
+  * <ConnectedLivingSpace.cfg> v1.2.0.0
+  * <en-us.cfg> v1.1.5.0
+
+### Status 0.8.99.5
+
+* Issues
+  * closes #69 - Keridian Dynamics (KDVA) 0.8.99.5-prerelease `<#6 Please Read the Instructions>` edition
+  * closes #70 - 0.8.99.5 Additional Tasks
+  * closes #59 - SimplexColonies
+  * closes #65 - [Bug 🐞]: Log Spam - textures not found
+
+---
 
 ## Version 0.8.99.4-prerelease - `<#5 Please Read the Instructions>` edition
 
