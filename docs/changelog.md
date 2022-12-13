@@ -41,7 +41,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * kd-pad-extension
   * kd-pad
 * Can search `kd`, `kdva` in editors
-* ghostparts.cfg has been updated and temporarily added to compensate for parts that were renamed
+* ghostparts.cfg has been updated and temporarily added for renamed parts
 
 ### Changes 0.8.99.5
 
