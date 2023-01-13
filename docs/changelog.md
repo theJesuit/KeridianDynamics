@@ -725,11 +725,11 @@ This is the first in a series of updates to this addon. Each update will update 
 * Added Emissive maps.
 * Added new animations.
 * Reworked Furnace behavior
-  * No more seperate heating needed.
+  * No more separate heating needed.
 * Furnace needs much less EC but produces more heat.
 * New part
   * KD-Recycler
-  * Roll-animation and ExRecycler need to be activated seperately
+  * Roll-animation and ExRecycler need to be activated separately
 * Updated CTT-compatibility.
 
  ---
