@@ -10,6 +10,50 @@
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
 
+# Version 0.8.99.6-prerelease - `<#6 Please Read the Instructions>` edition
+
+* Released
+  * 13 Jan 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 0.8.99.6
+
+* This is next in a series of updates with each (pre)release updating some of the fourty-nine (49) parts and numerous patches. This allows for updating in manageable way.
+* loads of behind the scenes changes
+* fixed texture not found log spam
+* corrected some part tags having a double `=` instead of `= //`
+* added
+  * agent
+  * many new flags
+* Updated parts
+  * kd-pad-extension
+  * kd-pad
+* Can search `kd`, `kdva` in editors
+* ghostparts.cfg has been updated and temporarily added for renamed parts
+
+### Changes 0.8.99.6
+
+* fixed texture not found log spam
+  * texture files where present, just not the correct encoding
+* corrected tags (had a double = instead of = //)
+* loads of behind the scenes changes
+* convert from .png --> .dds
+* Added
+  * <Agents.cfg> v1.0.0.0
+  * New Flags
+* Updated
+  * <kd-pad.cfg> v1.1.0.0
+  * <kd-pad-extension.cfg> v1.1.0.0
+  * <ConnectedLivingSpace.cfg> v1.2.0.0
+  * <en-us.cfg> v1.1.5.0
+
+### Status 0.8.99.6
+
+* Issues
+
+---
+
 ## Version 0.8.99.5-prerelease - `<#6 Please Read the Instructions>` edition
 
 * Released
