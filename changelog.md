@@ -23,9 +23,8 @@
 * loads of behind the scenes changes
 * fixed texture not found log spam
 * corrected some part tags having a double `=` instead of `= //`
-* added
+* updated
   * agent
-  * many new flags
 * Updated parts
   * kd-pad-extension
   * kd-pad
