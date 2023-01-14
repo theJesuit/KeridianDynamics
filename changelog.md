@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
 
-# Version 0.8.99.6-prerelease - `<#6 Please Read the Instructions>` edition
+## Version 0.8.99.6-prerelease - `<#6 Please Read the Instructions>` edition
 
 * Released
   * 13 Jan 2023
@@ -21,13 +21,39 @@
 
 * This is next in a series of updates with each (pre)release updating some of the fourty-nine (49) parts and numerous patches. This allows for updating in manageable way.
 * loads of behind the scenes changes
-* fixed texture not found log spam
-* corrected some part tags having a double `=` instead of `= //`
+* some tags were playing hide and seek and have been found and now are 'it'
 * updated
   * agent
 * Updated parts
-  * kd-fabricationcontainer.cfg v1.1.1.0
+  * kd-fabricationcontainer.cfg
   * kd-fava
+  * kd-Furnace.cfg
+  * kd-LaunchPadSide.cfg
+  * kd-Keronica.cfg
+  * kd-LaunchPad.cfg
+  * kd-LaunchPadSide.cfg
+  * kd-LaunchPadTop.cfg
+  * kd-LaunchSite.cfg
+  * kd-orbital-hangar.cfg
+  * kd-pad.cfg
+  * kd-pam-small.cfg
+  * kd-PAM.cfg
+  * kd-RecycleSite.cfg
+  * kd-recycler-small.cfg
+  * kd-recycler.cfg
+  * kd-SIMPLEXColonies-OASIS.cfg
+  * kd-vab-mobile.cfg 
+* Can search `kd`, `kdva` in editors
+* ghostparts.cfg has been updated and temporarily added for renamed parts
+
+### Changes 0.8.99.6
+
+* some tags were playing hide and seek and have been found and now are 'it'
+* updated
+  * agent
+* parts updated
+  * kd-fabricationcontainer.cfg v1.1.1.0
+  * kd-fava v1.1.1.0
   * kd-Furnace.cfg v1.1.1.0
   * kd-LaunchPadSide.cfg v1.1.1.0
   * kd-Keronica.cfg v1.1.1.0
@@ -36,36 +62,22 @@
   * kd-LaunchPadTop.cfg v1.1.1.0
   * kd-LaunchSite.cfg v1.1.1.0
   * kd-orbital-hangar.cfg v1.1.1.0
-  * kd-pad.cfg
+  * kd-pad.cfg v1.1.1.0
   * kd-pam-small.cfg v1.1.1.0 
   * kd-PAM.cfg v1.1.1.0
   * kd-RecycleSite.cfg v1.1.1.0
-  * kd-recycler-small.cfg
-  * kd-recycler.cfg
+  * kd-recycler-small.cfg v1.1.1.0
+  * kd-recycler.cfg v1.1.1.0
   * kd-SIMPLEXColonies-OASIS.cfg v1.0.1.0
   * kd-vab-mobile.cfg v1.1.1.0
-* Can search `kd`, `kdva` in editors
-* ghostparts.cfg has been updated and temporarily added for renamed parts
-
-### Changes 0.8.99.6
-
-* fixed texture not found log spam
-  * texture files where present, just not the correct encoding
-* corrected tags (had a double = instead of = //)
-* loads of behind the scenes changes
-* convert from .png --> .dds
-* Added
-  * <Agents.cfg> v1.0.0.0
-  * New Flags
-* Updated
-  * <kd-pad.cfg> v1.1.0.0
-  * <kd-pad-extension.cfg> v1.1.0.0
-  * <ConnectedLivingSpace.cfg> v1.2.0.0
-  * <en-us.cfg> v1.1.5.0
+* updates #15 - Localization - Master
 
 ### Status 0.8.99.6
 
 * Issues
+  * closes #60 - [compatibility] TETRIX  tech tree
+  * closes #73 - Keridian Dynamics (KDVA) 0.8.99.6-prerelease `<#7 Please Read the Instructions>` edition
+  * closes #74 - 0.8.99.6 Additional Tasks
 
 ---
 
