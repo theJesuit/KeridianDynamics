@@ -26,8 +26,22 @@
 * updated
   * agent
 * Updated parts
-  * kd-pad-extension
-  * kd-pad
+  * kd-fabricationcontainer.cfg v1.1.1.0
+  * kd-fava
+  * kd-Furnace.cfg v1.1.1.0
+  * kd-LaunchPadSide.cfg v1.1.1.0
+  * kd-Keronica.cfg v1.1.1.0
+  * kd-LaunchPad.cfg v1.1.1.0
+  * kd-LaunchPadSide.cfg v1.1.1.0
+  * kd-LaunchPadTop.cfg v1.1.1.0
+  * kd-LaunchSite.cfg v1.1.1.0
+  * kd-orbital-hangar.cfg v1.1.1.0
+  * kd-pad.cfg
+  * kd-pam-small.cfg v1.1.1.0 
+  * kd-PAM.cfg v1.1.1.0
+  * kd-RecycleSite.cfg v1.1.1.0
+  * kd-recycler-small.cfg
+  * kd-recycler.cfg
 * Can search `kd`, `kdva` in editors
 * ghostparts.cfg has been updated and temporarily added for renamed parts
 
