@@ -21,7 +21,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
 
-## Version 0.8.99.6-prerelease - `<#6 Please Read the Instructions>` edition
+## Version 0.8.99.6-prerelease - `<#7 Please Read the Instructions>` edition
 
 * Released
   * 13 Jan 2023
@@ -796,11 +796,11 @@ This is the first in a series of updates to this addon. Each update will update 
 * Added Emissive maps.
 * Added new animations.
 * Reworked Furnace behavior
-  * No more separate heating needed.
+  * No more seperate heating needed.
 * Furnace needs much less EC but produces more heat.
 * New part
   * KD-Recycler
-  * Roll-animation and ExRecycler need to be activated separately
+  * Roll-animation and ExRecycler need to be activated seperately
 * Updated CTT-compatibility.
 
  ---
