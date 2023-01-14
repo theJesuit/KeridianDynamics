@@ -43,7 +43,7 @@
   * kd-recycler-small.cfg
   * kd-recycler.cfg
   * kd-SIMPLEXColonies-OASIS.cfg v1.0.1.0
-  * 
+  * kd-vab-mobile.cfg v1.1.1.0
 * Can search `kd`, `kdva` in editors
 * ghostparts.cfg has been updated and temporarily added for renamed parts
 
