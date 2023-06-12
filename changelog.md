@@ -19,7 +19,7 @@
 
 ### Summary 0.8.99.6
 
-* This is next in a series of updates with each (pre)release updating some of the fourty-nine (49) parts and numerous patches. This allows for updating in manageable way.
+* This is next in a series of updates with each (pre)release updating some of the forty-nine (49) parts and numerous patches. This allows for updating in manageable way.
 * loads of behind the scenes changes
 * some tags were playing hide and seek and have been found and now are 'it'
 * updated
@@ -90,7 +90,7 @@
 
 ### Summary 0.8.99.5
 
-* This is next in a series of updates with each (pre)release updating some of the fourty-nine (49) parts and numerous patches. This allows for updating in manageable way.
+* This is next in a series of updates with each (pre)release updating some of the forty-nine (49) parts and numerous patches. This allows for updating in manageable way.
 * loads of behind the scenes changes
 * fixed texture not found log spam
 * corrected some part tags having a double `=` instead of `= //`
