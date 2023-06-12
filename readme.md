@@ -73,9 +73,9 @@ Most recent releases only available via CurseForge/OverWolf Website/App
     * One of the XPL based construction addons are 99.9% required
     * Parts will load but some will have reduced or no function
     * The configs autodetects if [XPL][xpl] or [SCON][SCON] are installed and uses the corresponding modules
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-* [Kaboom (BOOM)][BOOM]
-* [Module Manager /L][mml][^3] or [Module Manager][mm]
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)](https://www.curseforge.com/kerbal/ksp-mods/GPOSpeedPump)
+* [Kaboom! (BOOM)](https://www.curseforge.com/kerbal/ksp-mods/Kaboom)
+* [ModularManagement (MM)][MM] or [Module Manager][omm]
 * Resource Switchers Supported:
   * [Interstellar Fuel Switch CORE][ifsc]
   * [Firespitter CORE][fsc]
@@ -97,6 +97,36 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [Kerbal Attachment System][kas] - *allows the RecycleSite to dump all recycled resources*
 * [PatchManager][pm] - *allows patches to be easily toggleable*
 * [TweakScale][twk]
+
+* [Adjustable Mod Panel (KAMP)](https://www.curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
+* [Biomatic (BIO)](https://www.curseforge.com/kerbal/ksp-mods/Biomatic)
+* [Docking Port Descriptions (DPD)](https://www.curseforge.com/kerbal/ksp-mods/DockingPortDescriptions)
+* [Exception Detector (EXCD)](https://www.curseforge.com/kerbal/ksp-mods/ExceptionDetector)
+* [Field Training Facility (FTF)](https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingFacility)
+* [Field Training Lab (FTL)](https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingLab)
+* [Keridian Dynamics Vessel Assembly (KDVA)](https://www.curseforge.com/kerbal/ksp-mods/KeridianDynamics)
+* [MoarKerbals (MOAR)](https://www.curseforge.com/kerbal/ksp-mods/MoarKerbals)
+* [Near Future Rovers (NFR)](https://www.curseforge.com/kerbal/ksp-mods/NearFutureRovers)
+* [OhScrap! (OHS)](https://www.curseforge.com/kerbal/ksp-mods/OhScrap)
+* [On Demand Fuel Cells (ODFC)](https://www.curseforge.com/kerbal/ksp-mods/OnDemandFuelCells)
+* [Precise Maneuver (PM)](https://www.curseforge.com/kerbal/ksp-mods/PreciseManeuver)
+* [Pteron (MSRV)](https://www.curseforge.com/kerbal/Pteron)
+* [ScrapYard (SCRAP)](https://www.curseforge.com/kerbal/ksp-mods/ScrapYard)
+* [SimpleConstruction! (SCON)](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)
+* [SimpleLogistics! (SLOG)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics)
+* [SimpleNotes! (NOTE)](https://www.curseforge.com/kerbal/ksp-mods/Notes)
+* [Stock Inline Lights (SIL)](https://www.curseforge.com/kerbal/ksp-mods/StackInlineLights)
+* [Foundations (FND)](https://www.curseforge.com/kerbal/ksp-mods/Foundations) ***Helps prevent ground constructions from floating away***
+* Science!
+  * [Mkerb Science Instruments](https://www.curseforge.com/kerbal/ksp-mods/ScienceInstruments)
+  * [OScience Laboratories (OSL)](https://www.curseforge.com/kerbal/ksp-mods/OScienceLaboratories)
+  * [Papa Kerballini's Pizza (PIZZA)](https://www.curseforge.com/kerbal/ksp-mods/Pizza)
+  * [Solar Science (SOL)](https://www.curseforge.com/kerbal/ksp-mods/SolarScience)
+* by [Axial Aerospace](https://www.curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd)
+  * [Dreamer (DREAM)](https://www.curseforge.com/kerbal/ksp-mods/SimpleCargoSolutions)
+  * [LanderTek (LTK)](https://www.curseforge.com/kerbal/ksp-mods/Dreamer)
+  * [Simple Cargo Solutions (CARGO)](https://www.curseforge.com/kerbal/ksp-mods/LanderTek)
+  * [WhimChaser (WHIM)](https://www.curseforge.com/kerbal/ksp-mods/WhimChaser)
 
 ### Supports
 
