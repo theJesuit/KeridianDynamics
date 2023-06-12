@@ -1,8 +1,8 @@
 # Changelog  
   
-| modName    | Keridian Dynamics (KDVA)                                          |
+| modName    | Keridian Dynamics (KDVA) by Eleusis La Arwall                     |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-SA-4.0                                                      |
+| license    | CC-BY-SA-4.0+ARR                                                  |
 | author     | Eleusis La Arwall and zer0Kerbal                                  |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/202945-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/KeridianDynamics)       |
