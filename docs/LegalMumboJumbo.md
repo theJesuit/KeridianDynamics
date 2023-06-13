@@ -15,7 +15,7 @@ updated: 15 May 2022
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
 
-# Keridian Dynamics (KDVA)
+Keridian Dynamics (KDVA)
 
 [Home](./index.md)
 
@@ -43,4 +43,7 @@ updated: 15 May 2022
 
 ---
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/KeridianDynamics "Keridian Dynamics (KDVA)"
