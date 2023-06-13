@@ -10,6 +10,14 @@
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
 
+* 📌 Pinned
+  * Dependencies (can be useful without, but very limited):
+    * Either [SimpleConstruction! (SCON)](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction) or [Extraplanetary Launchpads (XPL)](https://forum.kerbalspaceprogram.com/index.php?/topic/54284-*/)
+    * [ModularManagement (MM)](https://www.curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
+  * This is next in a series of updates with each (pre)release updating some of the forty-nine (49) parts and numerous patches. This allows for updating in manageable way.
+  * search `kd`, `kdva` in editors
+  * ghostparts.cfg has been updated and temporarily added for renamed parts
+
 ## Version 0.8.99.6-prerelease - `<#7 Please Read the Instructions>` edition
 
 * Released
