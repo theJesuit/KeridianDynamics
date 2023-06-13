@@ -35,9 +35,6 @@ this file:
   * [Parts Family](#parts-family)
   * [How To Stake](#how-to-stake)
 
-"Q:\KSPDev\Parts\Repo\KeridianDynamics\docs\Marketing\Hero0.jpg"
-"Q:\KSPDev\Parts\Repo\KeridianDynamics\docs\Marketing\HowToStake.png"
-
 ### Resource Flow
 
 ![Resource Flow Graph](https://i.postimg.cc/QNqdw7wp/Simple-Construction-resource-Flow.png)
@@ -51,7 +48,6 @@ this file:
 ### How to Stake
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/KeridianDymanics/master/docs/Marketing/HowToStake.png" alt="Keridian Dynamics (KDVA)" width="100%" height="100%">
-
 [top](#table-of-contents)
 
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
