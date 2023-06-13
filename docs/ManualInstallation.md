@@ -2,18 +2,16 @@
 permalink: /ManualInstallation.html
 title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
-# layout: bare
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- ManualInstallation.md v1.1.7.0
+<!-- ManualInstallation.md  v1.0.7.0
 Keridian Dynamics (KDVA)
-created: 01 Oct 2019
-updated: 18 Apr 2022 -->
+created: 01 Apr 2018
+updated: 13 Jun 2023
 
 <!-- based upon work by Lisias -->
 
-# Keridian Dynamics (KDVA)
+## [Keridian Dynamics (KDVA)][mod]
 
 [Home](./index.md)
 
@@ -85,4 +83,12 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 ### Dependencies
 
-* none
+can be useful without, but very limited:
+
+* [SimpleConstruction! (SCON)](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction) or [Extraplanetary Launchpads (XPL)](https://forum.kerbalspaceprogram.com/index.php?/topic/54284-*/)
+* [ModularManagement (MM)](https://www.curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
+
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/KeridianDynamics "Keridian Dynamics (KDVA)"
