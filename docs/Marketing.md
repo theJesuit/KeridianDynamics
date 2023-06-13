@@ -38,17 +38,23 @@ this file:
 ### Resource Flow
 
 ![Resource Flow Graph](https://i.postimg.cc/QNqdw7wp/Simple-Construction-resource-Flow.png)
-[top](#table-of-contents)
+[top](#marketing-slicks)
 
 ### Parts Family
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/KeridianDymanics/master/docs/Marketing/HERO-01.jpg" alt="Keridian Dynamics (KDVA)" width="100%" height="100%">
-[top](#table-of-contents)
+<img src="https://raw.githubusercontent.com/zer0Kerbal/KeridianDynamics/master/docs/Marketing/HERO-01.jpg" alt="Keridian Dynamics (KDVA)" width="100%" height="100%">
+
+[top](#marketing-slicks)
 
 ### How to Stake
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/KeridianDymanics/master/docs/Marketing/HowToStake.png" alt="Keridian Dynamics (KDVA)" width="100%" height="100%">
-[top](#table-of-contents)
+using KAS/KIS
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/KeridianDynamics/master/docs/Marketing/HowToStake.png" alt="Keridian Dynamics (KDVA)" width="100%" height="100%">
+
+[top](#marketing-slicks)
+
+---
 
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from zer0Kerbal
