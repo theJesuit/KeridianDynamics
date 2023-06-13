@@ -18,6 +18,23 @@
   * search `kd`, `kdva` in editors
   * ghostparts.cfg has been updated and temporarily added for renamed parts
 
+  * [_config.yml] v1.0.7.0
+  * [_FAKQ.md] v1.0.7.0
+  * [_Flags.md] v1.0.7.0
+  * [404.md] v1.0.7.0
+  * [Attribution.md] v1.0.7.0
+  * [changelog.md] v1.0.7.0
+  * [index.md] v1.0.7.0
+  * [LegalMumboJumbo.md] v1.0.7.0
+  * [Localizations.md] v1.0.7.0
+  * [ManualInstallation.md] v1.0.7.0
+  * [Marketing.md] v1.0.7.0
+  * [Notices.md] v1.0.7.0
+  * [PartsCatalog.md] v1.0.7.0
+  * [Why.md] v1.0.7.0
+
+---
+
 ## Version 0.8.99.6-prerelease - `<#7 Please Read the Instructions>` edition
 
 * Released
