@@ -12,11 +12,11 @@ updated: 01 Oct 2022 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
 
-# Keridian Dynamics (KDVA) [WIP]
+## [Keridian Dynamics (KDVA)][mod]
 
 [Home](./index.md)
 
-## Parts Catalog
+## Parts Catalog (WIP)
 
 This add-on adds forty-nine (49) construction and resource parts
 
@@ -156,4 +156,7 @@ This add-on adds forty-nine (49) construction and resource parts
 
 ---
 
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/KeridianDynamics "Keridian Dynamics (KDVA)"
