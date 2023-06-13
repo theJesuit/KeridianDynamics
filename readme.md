@@ -3,9 +3,9 @@ Keridian Dynamics (KDVA)
 created: 17 Jul 2017
 updated: 04 Oct 2022
 
-TEMPLATE: readme.md v1.7.4.0
+TEMPLATE: readme.md v1.7.4.1
 created: 17 Jul 2017
-updated: 29 May 2023
+updated: 12 Jun 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 # [Keridian Dynamics (KDVA)][CURSFG:url]
@@ -39,11 +39,13 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* [ChangeLog][chlog] for more details of changes
 >* [Known Issues][issue] for more details of feature requests and known issues
 
+[YouTube testing/demo](https://youtu.be/TB0VfGKyDUE)
+
 ### Localization
 
 >* ![English][EN] English
->* ![Simplified Chinese (简体中文)][CN] Simplified Chinese (简体中文) - 太感谢了 to [ShadowSTAR616](https://github.com/ShadowSTARS616)
->* ![Taiwanese (国语)][TW] Taiwanese (国语) - 太感谢了 to [ShadowSTAR616](https://github.com/ShadowSTARS616)
+>* ![Simplified Chinese (简体中文)][CN] Simplified Chinese (简体中文) - 太感谢了 [ShadowSTAR616](https://github.com/ShadowSTARS616)
+>* ![Taiwanese (国语)][TW] Taiwanese (国语) - 太感谢了 [ShadowSTAR616](https://github.com/ShadowSTARS616)
 >* ***your translation here***
 
 ### Help Wanted
@@ -69,53 +71,43 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 ### Recommends
 
 * Either
-  * [Extraplanetary Launchpads (XPL)][xpl] or [SimpleConstruction! (SCON)][SCON]
+  * [Extraplanetary Launchpads (XPL)][xpl] or [SimpleConstruction! (SCON)](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)
     * One of the XPL based construction addons are 99.9% required
     * Parts will load but some will have reduced or no function
-    * The configs autodetects if [XPL][xpl] or [SCON][SCON] are installed and uses the corresponding modules
+    * The configs autodetects if [XPL][xpl] or [SCON](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction) are installed and uses the corresponding modules
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)](https://www.curseforge.com/kerbal/ksp-mods/GPOSpeedPump)
 * [Kaboom! (BOOM)](https://www.curseforge.com/kerbal/ksp-mods/Kaboom)
 * [ModularManagement (MM)][MM] or [Module Manager][omm]
 * Resource Switchers Supported:
   * [Interstellar Fuel Switch CORE][ifsc]
-  * [Firespitter CORE][fsc]
+  * [Firespitter CORE](https://github.com/snjo/Firespitter/ )
   * [B9PartSwitch][b9ps]
   * One of the Resource Switcher addons are 99% required
   * Parts will load but some will have reduced or no function
-  * The configs autodetects if [Interstellar Fuel Switch CORE][ifsc], [Firespitter CORE][fsc] or [B9PartSwitch][b9ps] is installed and uses the corresponding modules
+  * The configs autodetects if [Interstellar Fuel Switch CORE][ifsc], [Firespitter CORE](https://github.com/snjo/Firespitter/ ) or [B9PartSwitch][b9ps] is installed and uses the corresponding modules
   * If multiple ResourceSwitchers are installed, the priority goes as follows: [Interstellar Fuel Switch CORE][ifsc] > [Firespitter][fs] > [B9PartSwitch][b9ps]
 
-### Suggests
+### Suggests (Construction)
 
-* [Not So SimpleConstructon! (NSSC)][NSSC]
-* [On Demand Fuel Cells (ODFC)][ODFC]
-* [SimpleLogistics! (SLOG)][SLOG]
-* [Transparent Command Pods (TP)][TCP] - so you can see what you are building :)
-* [GTIndustries][gti]
-* [JSI Advanced Transparent Pods][atp]- *gives the  passable and nonpassable Storage Tanks an IVA overlay*
-* [Kerbal Inventory System][kis] - *this gives the Launchsite and Sledgehammer function*
-* [Kerbal Attachment System][kas] - *allows the RecycleSite to dump all recycled resources*
-* [PatchManager][pm] - *allows patches to be easily toggleable*
-* [TweakScale][twk]
+* [Kerbals of All Trades (KOAT)](https://www.curseforge.com/kerbal/ksp-mods/KerbalsofAllTrades)
+* [Not So SimpleConstructon! (NSSC)](https://www.curseforge.com/kerbal/ksp-mods/NotSoSimpleConstruction)
+* [On Demand Fuel Cells (ODFC)](https://www.curseforge.com/kerbal/ksp-mods/OnDemandFuelCells)
+* [SimpleLogistics! (SLOG)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics)
+* [SimpleNotes! (NOTE)](https://www.curseforge.com/kerbal/ksp-mods/Notes)
+* [Stack Inline Lights (SIL)](https://www.curseforge.com/kerbal/ksp-mods/StackInlineLights)
+* [Transparent Command Pods (TP)](https://www.curseforge.com/kerbal/ksp-mods/transparentpods) - so you can see what you are building :)
+
 
 * [Adjustable Mod Panel (KAMP)](https://www.curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
 * [Biomatic (BIO)](https://www.curseforge.com/kerbal/ksp-mods/Biomatic)
-* [Docking Port Descriptions (DPD)](https://www.curseforge.com/kerbal/ksp-mods/DockingPortDescriptions)
 * [Exception Detector (EXCD)](https://www.curseforge.com/kerbal/ksp-mods/ExceptionDetector)
-* [Field Training Facility (FTF)](https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingFacility)
-* [Field Training Lab (FTL)](https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingLab)
-* [Keridian Dynamics Vessel Assembly (KDVA)](https://www.curseforge.com/kerbal/ksp-mods/KeridianDynamics)
 * [MoarKerbals (MOAR)](https://www.curseforge.com/kerbal/ksp-mods/MoarKerbals)
 * [Near Future Rovers (NFR)](https://www.curseforge.com/kerbal/ksp-mods/NearFutureRovers)
 * [OhScrap! (OHS)](https://www.curseforge.com/kerbal/ksp-mods/OhScrap)
 * [On Demand Fuel Cells (ODFC)](https://www.curseforge.com/kerbal/ksp-mods/OnDemandFuelCells)
 * [Precise Maneuver (PM)](https://www.curseforge.com/kerbal/ksp-mods/PreciseManeuver)
-* [Pteron (MSRV)](https://www.curseforge.com/kerbal/Pteron)
 * [ScrapYard (SCRAP)](https://www.curseforge.com/kerbal/ksp-mods/ScrapYard)
 * [SimpleConstruction! (SCON)](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)
-* [SimpleLogistics! (SLOG)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics)
-* [SimpleNotes! (NOTE)](https://www.curseforge.com/kerbal/ksp-mods/Notes)
-* [Stock Inline Lights (SIL)](https://www.curseforge.com/kerbal/ksp-mods/StackInlineLights)
 * [Foundations (FND)](https://www.curseforge.com/kerbal/ksp-mods/Foundations) ***Helps prevent ground constructions from floating away***
 * Science!
   * [Mkerb Science Instruments](https://www.curseforge.com/kerbal/ksp-mods/ScienceInstruments)
@@ -132,25 +124,23 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 * Resource Switchers
   * [Interstellar Fuel Switch CORE][ifsc]
-  * [Firespitter CORE][fsc]
+  * [Firespitter CORE](https://github.com/snjo/Firespitter/ )
   * [B9PartSwitch][b9ps]
-* [Community Tech Tree][ctt]
-* [Community Resource Pack][crp]
-* [Connected Living Space][cls]
-* [Contract Configurator][cc]
-* [FAR][far]
-* ~~[Firespitter][fsc] for fully functioning wheels. may invoke bouts of dizziness.~~
-* [GTIndustries][gti]
-* [JSI Advanced Transparent Pods][atp]- *gives the  passable and nonpassable Storage Tanks an IVA overlay*
-* [Kerbal Inventory System][kis] - *this gives the Launchsite and Sledgehammer function*
-* [Kerbal Attachment System][kas] - *allows the RecycleSite to dump all recycled resources*
-* [On Demand Fuel Cells (ODFC)][ODFC]
-* [OSE Workshop][ose]
-* [PatchManager][pm] - *allows patches to be easily toggleable*
-* [ReStock][rstk]
-* [SIMPLEX Colonies][sxc]
-* [TETRIX tech tree][ttt]
-* [TweakScale][twk]
+* [Community Tech Tree](https://forum.kerbalspaceprogram.com/index.php?/topic/90530-*/)
+* [Community Resource Pack](http://forum.kerbalspaceprogram.com/index.php?/topic/83007-*/)
+* [Connected Living Space](http://forum.kerbalspaceprogram.com/index.php?showtopic=192130-*/)
+* [Contract Configurator](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-*/)
+* [FAR](https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/)
+* [GTIndustries](http://forum.kerbalspaceprogram.com/index.php?/topic/152667-*/)
+* [Kerbal Attachment System (KAS)](https://www.curseforge.com/kerbal/ksp-mods/kerbal-attachment-system-kas) - *allows the RecycleSite to dump all recycled resources*
+* [Kerbal Inventory System (KIS)](https://www.curseforge.com/kerbal/ksp-mods/kerbal-inventory-system-kis) - *this gives the Launchsite and Sledgehammer function*
+* [On Demand Fuel Cells (ODFC)](https://www.curseforge.com/kerbal/ksp-mods/OnDemandFuelCells)
+* [OSE Workshop](http://forum.kerbalspaceprogram.com/index.php?/topic/163246-*/)
+* ~~[PatchManager](https://forum.kerbalspaceprogram.com/index.php?/topic/163072-*/ ) - *allows patches to be easily toggleable*~~
+* [ReStock](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/)
+* [SIMPLEX Colonies](https://forum.kerbalspaceprogram.com/index.php?/topic/205078-*/)
+* [TETRIX tech tree](https://forum.kerbalspaceprogram.com/index.php?/topic/174731-*/)
+* [TweakScale (twk)](https://www.curseforge.com/kerbal/ksp-mods/TweakScale)
 
 ### Replaces
 
@@ -243,34 +233,10 @@ Comment, click, like, share, up-vote, subscribe
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KeridianDynamics/master/json/ksp.json "Kerbal Space Program"
 
 <!-- links to add-ons/mods -->
-[BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*/ "Kaboom (BOOM)"
-[GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
-[NSSC]: https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*/ "Not So SimpleConstructon!"
-[ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
-[SCON]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "SimpleConstructon!"
-[SLOG]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics!"
-[TCP]: https://forum.kerbalspaceprogram.com/index.php?/topic/187495-*/ "Transparent Command Pods"
-
-[atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
 [b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
-[cc]: https://forum.kerbalspaceprogram.com/index.php?/topic/91625-*/ "ContractConfigurator"
-[cls]: http://forum.kerbalspaceprogram.com/index.php?showtopic=192130-*/ "Connected Living Space"
-[crp]: http://forum.kerbalspaceprogram.com/index.php?/topic/83007-*/ "Community Resource Pack"
-[ctt]: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-*/ "Community Tech Tree"
-[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
-[fsc]: https://github.com/snjo/Firespitter/ "Firespitter"
-[gti]: http://forum.kerbalspaceprogram.com/index.php?/topic/152667-*/ "GTIndustries"
 [ifsc]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-* "Interstellar Fuel Switch CORE"
-[kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
-[kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[ose]: http://forum.kerbalspaceprogram.com/index.php?/topic/163246-*/ "OSE Workshop"
-[pm]: https://forum.kerbalspaceprogram.com/index.php?/topic/163072-*/ "PatchManager"
-[rstk]: https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/ "ReStock"
-[ttt]: https://forum.kerbalspaceprogram.com/index.php?/topic/174731-*/ "TETRIX tech tree"
-[twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
-[sxc]: https://forum.kerbalspaceprogram.com/index.php?/topic/205078-*/ "SIMPLEX Colonies"
+[MM]: https://www.curseforge.com/kerbal/ksp-mods/ModularManagement "ModularManagement (MM)"
+[omm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [xpl]: https://forum.kerbalspaceprogram.com/index.php?/topic/54284-*/ "Extraplanetary Launchpads"
 
 [auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/116286-*/ "Eleusis La Arwall"
