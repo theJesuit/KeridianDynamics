@@ -9,8 +9,11 @@ Keridian Dynamics (KDVA)
 created: 01 Apr 2018
 updated: 13 Jun 2023
 
-<!-- based upon work by Lisias -->
+TEMPLATE: ManualInstallation.md v1.1.9.1
+created: 01 Feb 2022
+updated: 26 Apr 2023
 
+based upon work by Lisias -->
 ## [Keridian Dynamics (KDVA)][mod]
 
 [Home](./index.md)
@@ -72,11 +75,15 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
       + [Spaces]
         ...
       * #.#.#.#.htm
+      * Attributions.htm
+      * CC-BY-SA-4.0+ARR.txt
       * changelog.md
-      * CC-BY-SA-4.0.txt
-      * readme.htm
       * KeridianDynamics.version
+      * ManualInstallation.htm
+      * readme.htm
     ...
+    * [ModularManagement][MM] or [Module Manager][omm]
+    * ModuleManager.ConfigCache
   * KSP.log
   ...
 ```
