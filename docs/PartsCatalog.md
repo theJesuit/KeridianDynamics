@@ -18,7 +18,7 @@ updated: 01 Oct 2022 -->
 
 ## Parts Catalog (WIP)
 
-This add-on adds fourty-nine (49) construction and resource parts
+This add-on adds forty-nine (49) construction and resource parts
 
 ---
 
