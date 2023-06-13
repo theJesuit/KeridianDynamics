@@ -18,9 +18,43 @@
   * search `kd`, `kdva` in editors
   * ghostparts.cfg has been updated and temporarily added for renamed parts
 
+## Version 0.8.99.7-prerelease - `<#8 Please Read the Instructions>` edition
+
+* Released
+  * 13 Jan 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 0.8.99.1
+
+### Changes 0.8.99.1
+
+  * closes #81 - [Bug 🐞]: Does not work with SimpleConstruction (W workaround!)
+  * closes #80 - Compatibility patches
+
+#### Compatibility 0.8.99.1
+
+#### Config 0.8.99.1
+
+ghostparts.cfg v1.1.0.0
+KeridianDynamics.cfg v1.0.3.0
+
+#### Localization 0.8.99.1
+
+* Add
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [zh-cn.cfg] v1.1.7.0
+  * [zh-tw.cfg] v1.1.7.0
+  * [en-us.cfg] v1.1.7.0
+
+#### Documentation 0.8.99.1
+
+* Update
   * [_config.yml] v1.0.7.0
-  * [_FAKQ.md] v1.0.7.0
-  * [_Flags.md] v1.0.7.0
   * [404.md] v1.0.7.0
   * [Attribution.md] v1.0.7.0
   * [changelog.md] v1.0.7.0
@@ -31,7 +65,19 @@
   * [Marketing.md] v1.0.7.0
   * [Notices.md] v1.0.7.0
   * [PartsCatalog.md] v1.0.7.0
-  * [Why.md] v1.0.7.0
+  * [readme.md] v0.8.99.7
+  * [ReleaseLayout.md] v0.8.99.7
+* Add
+  * [FAKQ.md] v1.0.0.0
+  * [Flags.md] v1.0.0.0
+  * [Why.md] v1.0.0.0
+
+### Status 0.8.99.1
+
+* Issues
+  * closes #77 - Keridian Dynamics (KDVA) 0.8.99.7-prerelease `<#8 Please Read the Instructions>` edition
+  * closes #78 - 0.8.99.7 Additional Tasks
+  * updates #79 - Part costs need to be evaluated and adjusted generally up
 
 ---
 
