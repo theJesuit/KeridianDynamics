@@ -11,15 +11,128 @@ updated: 05 Nov 2022
 CC BY-ND 4.0 by zer0Kerbal -->  
 # Changelog  
   
-| modName    | Keridian Dynamics (KDVA)                                          |
+| modName    | Keridian Dynamics (KDVA) by Eleusis La Arwall                     |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-SA-4.0                                                      |
+| license    | CC-BY-SA-4.0+ARR                                                  |
 | author     | Eleusis La Arwall and zer0Kerbal                                  |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/202945-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/KeridianDynamics)       |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/KeridianDynamics)     |
 | spacedock  | (https://spacedock.info/mod/308)                                  |
 | ckan       | KeridianDynamicsVesselAssembly                                    |
+
+* 📌 Pinned
+  * Dependencies (can be useful without, but very limited):
+    * Either [SimpleConstruction! (SCON)](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction) or [Extraplanetary Launchpads (XPL)](https://forum.kerbalspaceprogram.com/index.php?/topic/54284-*/)
+    * [ModularManagement (MM)](https://www.curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
+  * search `kd`, `kdva` in editors
+  * ghostparts.cfg has been updated and temporarily added for 3D Printer
+
+## Version 0.8.99.7-prerelease - `<#8 Please Read the Instructions>` edition
+
+* Released
+  * 17 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 0.8.99.7
+
+* 49/49 parts have undergone initial modernization
+* mostly the patches are what are needing to be modernized
+* Corrected the illogical logic in the SimpleConstruction! (SCON) patch
+* Misplaced excitement, removed `!` from where it shouldn't be
+* Crew no longer are incorporeal and now cannot pass through solid tanks at will
+* English, Simplified Chinese, and Taiwanese localization files
+  * Update and synchronize
+  * Add additional strings for upcoming parts
+  * custom science experiment now can be localized
+* remove extraneous and superfluous resource definitions
+* loads of behind the scenes changes
+
+### Changes 0.8.99.7
+
+#### Compatibility 0.8.99.7
+
+* Update
+  * [CommunityTechTree.cfg] v1.1.1.0
+  * [ConnectedLivingSpace.cfg] v1.2.1.0
+    * Crew no longer are incorporeal and now cannot pass through solid tanks at will
+  * [Converters.cfg] v1.0.0.0
+  * [DrillScience.cfg] v1.1.1.0
+  * [ExtraplanetaryLaunchpads.cfg] v1.1.1.0
+  * [FuelSwitchNew.cfg] v1.1.0.0
+  * [JSIAdvTransparentPods.cfg] v1.1.0.0
+  * [KAS.cfg] v1.1.0.0
+  * [KerbalInventorySystemcfg] v1.1.0.0
+  * [OSEWorkshop.cfg] v1.1.0.0
+  * [SimpleConstruction.cfg] v1.1.0.0
+    * Corrected the illogical logic in the SimpleConstruction! (SCON) patch
+    * Misplaced excitement, removed `!` from where it shouldn't be
+    * thank you to [x13x54](https://github.com/x13x54)
+* closes #81 - [Bug 🐞]: Does not work with SimpleConstruction (W workaround!)
+* updates #80 - Compatibility patches
+
+#### Config 0.8.99.7
+
+* Update
+  * [ghostparts.cfg] v1.1.0.0
+  * [KeridianDynamics.cfg] v1.0.3.0
+
+#### Resources 0.8.99.7
+
+* Update
+  * [ScienceDefs.cfg] v0.8.99.7
+    * localize
+  * [ResourcesGeneric.cfg] v0.8.99.7
+    * remove extraneous and superfluous definitions
+
+#### Localization 0.8.99.7
+
+* Add
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* English, Simplified Chinese, and Taiwanese localization files
+  * Add additional strings for upcoming parts
+  * Update and synchronize
+  * [en-us.cfg] v1.2.0.0
+  * [zh-cn.cfg] v1.2.0.0 (missing localizations)
+  * [zh-tw.cfg] v1.2.0.0 (missing localizations)
+* updates #15 - Localization - Master
+* updates #16 - English <us-en.cfg>
+* updates #24 - Simplified Chinese (简体中文) <zh-cn.cfg>
+* updates #31 - Taiwanese (国语) <zh-tw.cfg>
+
+#### Documentation 0.8.99.7
+
+* Update
+  * [_config.yml] v1.0.7.0
+  * [404.md] v1.0.7.0
+  * [Attribution.md] v1.0.7.0
+  * [changelog.md] v1.0.7.0
+  * [index.md] v1.0.7.0
+  * [LegalMumboJumbo.md] v1.0.7.0
+  * [Localizations.md] v1.0.7.0
+  * [ManualInstallation.md] v1.0.7.0
+  * [Marketing.md] v1.0.7.0
+  * [Notices.md] v1.0.7.0
+  * [PartsCatalog.md] v1.0.7.0
+  * [readme.md] v0.8.99.7
+  * [ReleaseLayout.md] v0.8.99.7
+* Add
+  * [FAKQ.md] v1.0.0.0
+  * [Flags.md] v1.0.0.0
+  * [Why.md] v1.0.0.0
+
+### Status 0.8.99.7
+
+* Issues
+  * closes #77 - Keridian Dynamics (KDVA) 0.8.99.7-prerelease `<#8 Please Read the Instructions>` edition
+  * closes #78 - 0.8.99.7 Additional Tasks
+  * updates #79 - Part costs need to be evaluated and adjusted generally up
+
+---
 
 ## Version 0.8.99.6-prerelease - `<#7 Please Read the Instructions>` edition
 
