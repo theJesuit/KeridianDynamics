@@ -171,7 +171,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 #### Original (ROOT) (0) - Author: [Eleusis La Arwall][auth-link]
 
-> Forum: [Thread][0:thr] - Download: [CurseForge][0:dnl] - Source: [SpaceDock][0:src]  
+> Forum: [Thread][0:thr] - Download: [SpaceDock][0:dnl] - Source: [GitHub][0:src]  
 > License: [![License][0:shd]][0:url] ![License][0:log]
 
 #### Disclaimer(s)
