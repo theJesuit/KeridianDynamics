@@ -30,9 +30,26 @@
 ### Changes 0.8.99.1
 
   * closes #81 - [Bug 🐞]: Does not work with SimpleConstruction (W workaround!)
-  * closes #80 - Compatibility patches
 
 #### Compatibility 0.8.99.1
+
+* Crew no longer are incorporal and now cannot pass through solid tanks at will
+* Corrected the illogical logic in the SimpleConstruction! (SCON) patch
+
+* Update
+  * [CommunityTechTree.cfg] v1.1.1.0
+  * [ConnectedLivingSpace.cfg] v1.2.1.0
+  * [Converters.cfg] v1.0.0.0
+  * [DrillScience.cfg] v1.1.1.0
+  * [ExtraplanetaryLaunchpads.cfg] v1.1.1.0
+  * [FuelSwitchNew.cfg] v1.1.0.0
+  * [JSIAdvTransparentPods.cfg] v1.1.0.0
+  * [KAS.cfg] v1.1.0.0
+  * [KerbalInventorySystemcfg] v1.1.0.0
+  * [OSEWorkshop.cfg] v1.1.0.0
+  * [SimpleConstruction.cfg] v1.1.0.0
+
+  * updates #80 - Compatibility patches
 
 #### Config 0.8.99.1
 
