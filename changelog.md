@@ -14,31 +14,38 @@
   * Dependencies (can be useful without, but very limited):
     * Either [SimpleConstruction! (SCON)](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction) or [Extraplanetary Launchpads (XPL)](https://forum.kerbalspaceprogram.com/index.php?/topic/54284-*/)
     * [ModularManagement (MM)](https://www.curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
-  * This is next in a series of updates with each (pre)release updating some of the forty-nine (49) parts and numerous patches. This allows for updating in manageable way.
   * search `kd`, `kdva` in editors
-  * ghostparts.cfg has been updated and temporarily added for renamed parts
+  * ghostparts.cfg has been updated and temporarily added for 3D Printer
 
 ## Version 0.8.99.7-prerelease - `<#8 Please Read the Instructions>` edition
 
 * Released
-  * 13 Jan 2023
+  * 17 Jun 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Change Summary 0.8.99.1
+### Change Summary 0.8.99.7
 
-### Changes 0.8.99.1
-
-  * closes #81 - [Bug 🐞]: Does not work with SimpleConstruction (W workaround!)
-
-#### Compatibility 0.8.99.1
-
-* Crew no longer are incorporal and now cannot pass through solid tanks at will
+* 49/49 parts have undergone initial modernization
+* mostly the patches are what are needing to be modernized
 * Corrected the illogical logic in the SimpleConstruction! (SCON) patch
+* Misplaced excitement, removed `!` from where it shouldn't be
+* Crew no longer are incorporeal and now cannot pass through solid tanks at will
+* English, Simplified Chinese, and Taiwanese localization files
+  * Update and synchronize
+  * Add additional strings for upcoming parts
+  * custom science experiment now can be localized
+* remove extraneous and superfluous resource definitions
+* loads of behind the scenes changes
+
+### Changes 0.8.99.7
+
+#### Compatibility 0.8.99.7
 
 * Update
   * [CommunityTechTree.cfg] v1.1.1.0
   * [ConnectedLivingSpace.cfg] v1.2.1.0
+    * Crew no longer are incorporeal and now cannot pass through solid tanks at will
   * [Converters.cfg] v1.0.0.0
   * [DrillScience.cfg] v1.1.1.0
   * [ExtraplanetaryLaunchpads.cfg] v1.1.1.0
@@ -48,27 +55,45 @@
   * [KerbalInventorySystemcfg] v1.1.0.0
   * [OSEWorkshop.cfg] v1.1.0.0
   * [SimpleConstruction.cfg] v1.1.0.0
+    * Corrected the illogical logic in the SimpleConstruction! (SCON) patch
+    * Misplaced excitement, removed `!` from where it shouldn't be
+    * thank you to [x13x54](https://github.com/x13x54)
+* closes #81 - [Bug 🐞]: Does not work with SimpleConstruction (W workaround!)
+* updates #80 - Compatibility patches
 
-  * updates #80 - Compatibility patches
+#### Config 0.8.99.7
 
-#### Config 0.8.99.1
+* Update
+  * [ghostparts.cfg] v1.1.0.0
+  * [KeridianDynamics.cfg] v1.0.3.0
 
-ghostparts.cfg v1.1.0.0
-KeridianDynamics.cfg v1.0.3.0
+#### Resources 0.8.99.7
 
-#### Localization 0.8.99.1
+* Update
+  * [ScienceDefs.cfg] v0.8.99.7
+    * localize
+  * [ResourcesGeneric.cfg] v0.8.99.7
+    * remove extraneous and superfluous definitions
+
+#### Localization 0.8.99.7
 
 * Add
   * Translation guides
     * [readme-ru.md] v1.0.1.0
     * [quickstart-ru.md] v1.0.0.0
     * Спасибо [evanisrael](https://github/evanisrael)
-* Update
-  * [zh-cn.cfg] v1.1.7.0
-  * [zh-tw.cfg] v1.1.7.0
-  * [en-us.cfg] v1.1.7.0
+* English, Simplified Chinese, and Taiwanese localization files
+  * Add additional strings for upcoming parts
+  * Update and synchronize
+  * [en-us.cfg] v1.2.0.0
+  * [zh-cn.cfg] v1.2.0.0 (missing localizations)
+  * [zh-tw.cfg] v1.2.0.0 (missing localizations)
+* updates #15 - Localization - Master
+* updates #16 - English <us-en.cfg>
+* updates #24 - Simplified Chinese (简体中文) <zh-cn.cfg>
+* updates #31 - Taiwanese (国语) <zh-tw.cfg>
 
-#### Documentation 0.8.99.1
+#### Documentation 0.8.99.7
 
 * Update
   * [_config.yml] v1.0.7.0
@@ -89,7 +114,7 @@ KeridianDynamics.cfg v1.0.3.0
   * [Flags.md] v1.0.0.0
   * [Why.md] v1.0.0.0
 
-### Status 0.8.99.1
+### Status 0.8.99.7
 
 * Issues
   * closes #77 - Keridian Dynamics (KDVA) 0.8.99.7-prerelease `<#8 Please Read the Instructions>` edition
